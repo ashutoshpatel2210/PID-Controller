@@ -1,0 +1,3002 @@
+root@95239b9351ee:/home/workspace/CarND-PID-Control-Project/build# ./pid 
+Listening to port 4567
+Connected!!!
+CTE: 0.7598 Steering Value: -0.7598Average Error::0.7598
+Min Error::0.7598  Max Error::0.7598  Average Error::0.7598  Counter1
+42["steer",{"steering_angle":-0.7598,"throttle":0.3}]
+CTE: 0.7598 Steering Value: -1Average Error::0.7598
+Min Error::0.7598  Max Error::0.7598  Average Error::0.7598  Counter2
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.7598 Steering Value: -1Average Error::0.7598
+Min Error::0.7598  Max Error::0.7598  Average Error::0.7598  Counter3
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.7599 Steering Value: -1Average Error::0.759825
+Min Error::0.7598  Max Error::0.7599  Average Error::0.759825  Counter4
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.7583 Steering Value: -1Average Error::0.75952
+Min Error::0.7583  Max Error::0.7599  Average Error::0.75952  Counter5
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.7549 Steering Value: -1Average Error::0.75875
+Min Error::0.7549  Max Error::0.7599  Average Error::0.75875  Counter6
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.7503 Steering Value: -1Average Error::0.757543
+Min Error::0.7503  Max Error::0.7599  Average Error::0.757543  Counter7
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.7434 Steering Value: -1Average Error::0.755775
+Min Error::0.7434  Max Error::0.7599  Average Error::0.755775  Counter8
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.7355 Steering Value: -1Average Error::0.753522
+Min Error::0.7355  Max Error::0.7599  Average Error::0.753522  Counter9
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.7241 Steering Value: -1Average Error::0.75058
+Min Error::0.7241  Max Error::0.7599  Average Error::0.75058  Counter10
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.715 Steering Value: -1Average Error::0.747345
+Min Error::0.715  Max Error::0.7599  Average Error::0.747345  Counter11
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.7016 Steering Value: -1Average Error::0.743533
+Min Error::0.7016  Max Error::0.7599  Average Error::0.743533  Counter12
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.6819 Steering Value: -1Average Error::0.738792
+Min Error::0.6819  Max Error::0.7599  Average Error::0.738792  Counter13
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.6571 Steering Value: -1Average Error::0.732957
+Min Error::0.6571  Max Error::0.7599  Average Error::0.732957  Counter14
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.6326 Steering Value: -1Average Error::0.726267
+Min Error::0.6326  Max Error::0.7599  Average Error::0.726267  Counter15
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.5969 Steering Value: -1Average Error::0.718181
+Min Error::0.5969  Max Error::0.7599  Average Error::0.718181  Counter16
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.5617 Steering Value: -1Average Error::0.708976
+Min Error::0.5617  Max Error::0.7599  Average Error::0.708976  Counter17
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.5104 Steering Value: -1Average Error::0.697944
+Min Error::0.5104  Max Error::0.7599  Average Error::0.697944  Counter18
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.4599 Steering Value: -1Average Error::0.685416
+Min Error::0.4599  Max Error::0.7599  Average Error::0.685416  Counter19
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.4012 Steering Value: -1Average Error::0.671205
+Min Error::0.4012  Max Error::0.7599  Average Error::0.671205  Counter20
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.3338 Steering Value: -1Average Error::0.655138
+Min Error::0.3338  Max Error::0.7599  Average Error::0.655138  Counter21
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.257 Steering Value: -1Average Error::0.637041
+Min Error::0.257  Max Error::0.7599  Average Error::0.637041  Counter22
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.1512 Steering Value: -1Average Error::0.615917
+Min Error::0.1512  Max Error::0.7599  Average Error::0.615917  Counter23
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -0.2972 Steering Value: -1Average Error::0.602637
+Min Error::0.1512  Max Error::0.7599  Average Error::0.602637  Counter24
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -0.4166 Steering Value: -1Average Error::0.595196
+Min Error::0.1512  Max Error::0.7599  Average Error::0.595196  Counter25
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -0.6138 Steering Value: -1Average Error::0.595912
+Min Error::0.1512  Max Error::0.7599  Average Error::0.595912  Counter26
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -0.7579 Steering Value: -1Average Error::0.601911
+Min Error::0.1512  Max Error::0.7599  Average Error::0.601911  Counter27
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -0.9935 Steering Value: -1Average Error::0.615896
+Min Error::0.1512  Max Error::-0.9935  Average Error::0.615896  Counter28
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -1.7203 Steering Value: -1Average Error::0.653979
+Min Error::0.1512  Max Error::-1.7203  Average Error::0.653979  Counter29
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -1.63 Steering Value: -1Average Error::0.686513
+Min Error::0.1512  Max Error::-1.63  Average Error::0.686513  Counter30
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -1.669 Steering Value: -1Average Error::0.718206
+Min Error::0.1512  Max Error::-1.669  Average Error::0.718206  Counter31
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -1.8993 Steering Value: -1Average Error::0.755116
+Min Error::0.1512  Max Error::-1.8993  Average Error::0.755116  Counter32
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -2.1168 Steering Value: -1Average Error::0.796379
+Min Error::0.1512  Max Error::-2.1168  Average Error::0.796379  Counter33
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: -2.3463 Steering Value: 0.2946Average Error::0.841965
+Min Error::0.1512  Max Error::-2.3463  Average Error::0.841965  Counter34
+42["steer",{"steering_angle":0.2946,"throttle":0.3}]
+CTE: -2.5872 Steering Value: 1Average Error::0.891829
+Min Error::0.1512  Max Error::-2.5872  Average Error::0.891829  Counter35
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -2.819 Steering Value: 1Average Error::0.945361
+Min Error::0.1512  Max Error::-2.819  Average Error::0.945361  Counter36
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.0232 Steering Value: 1Average Error::1.00152
+Min Error::0.1512  Max Error::-3.0232  Average Error::1.00152  Counter37
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.1879 Steering Value: 1Average Error::1.05906
+Min Error::0.1512  Max Error::-3.1879  Average Error::1.05906  Counter38
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.3185 Steering Value: 1Average Error::1.11699
+Min Error::0.1512  Max Error::-3.3185  Average Error::1.11699  Counter39
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.4315 Steering Value: 1Average Error::1.17485
+Min Error::0.1512  Max Error::-3.4315  Average Error::1.17485  Counter40
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.5306 Steering Value: 1Average Error::1.23231
+Min Error::0.1512  Max Error::-3.5306  Average Error::1.23231  Counter41
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.6364 Steering Value: 1Average Error::1.28955
+Min Error::0.1512  Max Error::-3.6364  Average Error::1.28955  Counter42
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.6962 Steering Value: 1Average Error::1.34552
+Min Error::0.1512  Max Error::-3.6962  Average Error::1.34552  Counter43
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.7568 Steering Value: 1Average Error::1.40032
+Min Error::0.1512  Max Error::-3.7568  Average Error::1.40032  Counter44
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.8244 Steering Value: 1Average Error::1.45419
+Min Error::0.1512  Max Error::-3.8244  Average Error::1.45419  Counter45
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.8656 Steering Value: 1Average Error::1.50661
+Min Error::0.1512  Max Error::-3.8656  Average Error::1.50661  Counter46
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.898 Steering Value: 1Average Error::1.55749
+Min Error::0.1512  Max Error::-3.898  Average Error::1.55749  Counter47
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.9078 Steering Value: 1Average Error::1.60646
+Min Error::0.1512  Max Error::-3.9078  Average Error::1.60646  Counter48
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.8943 Steering Value: 1Average Error::1.65315
+Min Error::0.1512  Max Error::-3.8943  Average Error::1.65315  Counter49
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.8568 Steering Value: 1Average Error::1.69722
+Min Error::0.1512  Max Error::-3.8568  Average Error::1.69722  Counter50
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.7924 Steering Value: 1Average Error::1.7383
+Min Error::0.1512  Max Error::-3.7924  Average Error::1.7383  Counter51
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.6674 Steering Value: 1Average Error::1.7754
+Min Error::0.1512  Max Error::-3.6674  Average Error::1.7754  Counter52
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.5242 Steering Value: 1Average Error::1.8084
+Min Error::0.1512  Max Error::-3.5242  Average Error::1.8084  Counter53
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.3471 Steering Value: 1Average Error::1.83689
+Min Error::0.1512  Max Error::-3.3471  Average Error::1.83689  Counter54
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -3.1374 Steering Value: 1Average Error::1.86054
+Min Error::0.1512  Max Error::-3.1374  Average Error::1.86054  Counter55
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -2.8391 Steering Value: 1Average Error::1.87801
+Min Error::0.1512  Max Error::-2.8391  Average Error::1.87801  Counter56
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -2.4877 Steering Value: 1Average Error::1.88871
+Min Error::0.1512  Max Error::-2.4877  Average Error::1.88871  Counter57
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -2.084 Steering Value: 1Average Error::1.89207
+Min Error::0.1512  Max Error::-2.084  Average Error::1.89207  Counter58
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -1.7093 Steering Value: 1Average Error::1.88898
+Min Error::0.1512  Max Error::-1.7093  Average Error::1.88898  Counter59
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -1.3821 Steering Value: 1Average Error::1.88053
+Min Error::0.1512  Max Error::-1.3821  Average Error::1.88053  Counter60
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -1.033 Steering Value: 1Average Error::1.86663
+Min Error::0.1512  Max Error::-1.033  Average Error::1.86663  Counter61
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: -0.4714 Steering Value: 1Average Error::1.84413
+Min Error::0.1512  Max Error::-0.4714  Average Error::1.84413  Counter62
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 0.136 Steering Value: 1Average Error::1.81702
+Min Error::0.136  Max Error::0.136  Average Error::1.81702  Counter63
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 0.5638 Steering Value: 1Average Error::1.79744
+Min Error::0.136  Max Error::0.5638  Average Error::1.79744  Counter64
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 1.1221 Steering Value: 1Average Error::1.78705
+Min Error::0.136  Max Error::1.1221  Average Error::1.78705  Counter65
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 1.7002 Steering Value: 1Average Error::1.78573
+Min Error::0.136  Max Error::1.7002  Average Error::1.78573  Counter66
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 2.0573 Steering Value: 1Average Error::1.78978
+Min Error::0.136  Max Error::2.0573  Average Error::1.78978  Counter67
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 2.5388 Steering Value: 1Average Error::1.8008
+Min Error::0.136  Max Error::2.5388  Average Error::1.8008  Counter68
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 2.903 Steering Value: 1Average Error::1.81677
+Min Error::0.136  Max Error::2.903  Average Error::1.81677  Counter69
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 3.2728 Steering Value: 1Average Error::1.83757
+Min Error::0.136  Max Error::3.2728  Average Error::1.83757  Counter70
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 3.7469 Steering Value: 1Average Error::1.86446
+Min Error::0.136  Max Error::3.7469  Average Error::1.86446  Counter71
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 4.0831 Steering Value: 1Average Error::1.89528
+Min Error::0.136  Max Error::4.0831  Average Error::1.89528  Counter72
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 4.4117 Steering Value: 1Average Error::1.92975
+Min Error::0.136  Max Error::4.4117  Average Error::1.92975  Counter73
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 4.7413 Steering Value: 1Average Error::1.96774
+Min Error::0.136  Max Error::4.7413  Average Error::1.96774  Counter74
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 5.0695 Steering Value: 1Average Error::2.0091
+Min Error::0.136  Max Error::5.0695  Average Error::2.0091  Counter75
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 5.5093 Steering Value: 1Average Error::2.05516
+Min Error::0.136  Max Error::5.5093  Average Error::2.05516  Counter76
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 5.947 Steering Value: 1Average Error::2.1057
+Min Error::0.136  Max Error::5.947  Average Error::2.1057  Counter77
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 6.267 Steering Value: 1Average Error::2.15905
+Min Error::0.136  Max Error::6.267  Average Error::2.15905  Counter78
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 6.6799 Steering Value: 1Average Error::2.21628
+Min Error::0.136  Max Error::6.6799  Average Error::2.21628  Counter79
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 6.978 Steering Value: 1Average Error::2.2758
+Min Error::0.136  Max Error::6.978  Average Error::2.2758  Counter80
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 7.2674 Steering Value: 1Average Error::2.33742
+Min Error::0.136  Max Error::7.2674  Average Error::2.33742  Counter81
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 7.5406 Steering Value: 1Average Error::2.40088
+Min Error::0.136  Max Error::7.5406  Average Error::2.40088  Counter82
+42["steer",{"steering_angle":1.0,"throttle":0.3}]
+CTE: 7.7948 Steering Value: -1Average Error::2.46586
+Min Error::0.136  Max Error::7.7948  Average Error::2.46586  Counter83
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.0391 Steering Value: -1Average Error::2.53221
+Min Error::0.136  Max Error::8.0391  Average Error::2.53221  Counter84
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.2814 Steering Value: -1Average Error::2.59985
+Min Error::0.136  Max Error::8.2814  Average Error::2.59985  Counter85
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.6008 Steering Value: -1Average Error::2.66963
+Min Error::0.136  Max Error::8.6008  Average Error::2.66963  Counter86
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.8337 Steering Value: -1Average Error::2.74048
+Min Error::0.136  Max Error::8.8337  Average Error::2.74048  Counter87
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.0637 Steering Value: -1Average Error::2.81233
+Min Error::0.136  Max Error::9.0637  Average Error::2.81233  Counter88
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.3849 Steering Value: -1Average Error::2.88618
+Min Error::0.136  Max Error::9.3849  Average Error::2.88618  Counter89
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.7353 Steering Value: -1Average Error::2.96228
+Min Error::0.136  Max Error::9.7353  Average Error::2.96228  Counter90
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.007 Steering Value: -1Average Error::3.0397
+Min Error::0.136  Max Error::10.007  Average Error::3.0397  Counter91
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.2866 Steering Value: -1Average Error::3.11847
+Min Error::0.136  Max Error::10.2866  Average Error::3.11847  Counter92
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.6703 Steering Value: -1Average Error::3.19967
+Min Error::0.136  Max Error::10.6703  Average Error::3.19967  Counter93
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.9654 Steering Value: -1Average Error::3.28229
+Min Error::0.136  Max Error::10.9654  Average Error::3.28229  Counter94
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.2658 Steering Value: -1Average Error::3.36632
+Min Error::0.136  Max Error::11.2658  Average Error::3.36632  Counter95
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.571 Steering Value: -1Average Error::3.45179
+Min Error::0.136  Max Error::11.571  Average Error::3.45179  Counter96
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.9858 Steering Value: -1Average Error::3.53977
+Min Error::0.136  Max Error::11.9858  Average Error::3.53977  Counter97
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.2989 Steering Value: -1Average Error::3.62915
+Min Error::0.136  Max Error::12.2989  Average Error::3.62915  Counter98
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.7215 Steering Value: -1Average Error::3.72099
+Min Error::0.136  Max Error::12.7215  Average Error::3.72099  Counter99
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.0419 Steering Value: -1Average Error::3.8142
+Min Error::0.136  Max Error::13.0419  Average Error::3.8142  Counter100
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.3641 Steering Value: -1Average Error::3.90875
+Min Error::0.136  Max Error::13.3641  Average Error::3.90875  Counter101
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.6873 Steering Value: -1Average Error::4.00462
+Min Error::0.136  Max Error::13.6873  Average Error::4.00462  Counter102
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.1175 Steering Value: -1Average Error::4.1028
+Min Error::0.136  Max Error::14.1175  Average Error::4.1028  Counter103
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.4399 Steering Value: -1Average Error::4.2022
+Min Error::0.136  Max Error::14.4399  Average Error::4.2022  Counter104
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.7594 Steering Value: -1Average Error::4.30274
+Min Error::0.136  Max Error::14.7594  Average Error::4.30274  Counter105
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.0735 Steering Value: -1Average Error::4.40435
+Min Error::0.136  Max Error::15.0735  Average Error::4.40435  Counter106
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.4847 Steering Value: -1Average Error::4.50791
+Min Error::0.136  Max Error::15.4847  Average Error::4.50791  Counter107
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.7877 Steering Value: -1Average Error::4.61235
+Min Error::0.136  Max Error::15.7877  Average Error::4.61235  Counter108
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 16.0779 Steering Value: -1Average Error::4.71754
+Min Error::0.136  Max Error::16.0779  Average Error::4.71754  Counter109
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 16.4519 Steering Value: -1Average Error::4.82421
+Min Error::0.136  Max Error::16.4519  Average Error::4.82421  Counter110
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 16.7181 Steering Value: -1Average Error::4.93137
+Min Error::0.136  Max Error::16.7181  Average Error::4.93137  Counter111
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 17.0513 Steering Value: -1Average Error::5.03958
+Min Error::0.136  Max Error::17.0513  Average Error::5.03958  Counter112
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 17.3601 Steering Value: -1Average Error::5.14861
+Min Error::0.136  Max Error::17.3601  Average Error::5.14861  Counter113
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 17.5807 Steering Value: -1Average Error::5.25766
+Min Error::0.136  Max Error::17.5807  Average Error::5.25766  Counter114
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 17.8498 Steering Value: -1Average Error::5.36716
+Min Error::0.136  Max Error::17.8498  Average Error::5.36716  Counter115
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.0317 Steering Value: -1Average Error::5.47634
+Min Error::0.136  Max Error::18.0317  Average Error::5.47634  Counter116
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 17.6932 Steering Value: -1Average Error::5.58076
+Min Error::0.136  Max Error::18.0317  Average Error::5.58076  Counter117
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 17.8504 Steering Value: -1Average Error::5.68474
+Min Error::0.136  Max Error::18.0317  Average Error::5.68474  Counter118
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.0286 Steering Value: -1Average Error::5.78847
+Min Error::0.136  Max Error::18.0317  Average Error::5.78847  Counter119
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.1729 Steering Value: -1Average Error::5.89167
+Min Error::0.136  Max Error::18.1729  Average Error::5.89167  Counter120
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.7321 Steering Value: -1Average Error::5.99779
+Min Error::0.136  Max Error::18.7321  Average Error::5.99779  Counter121
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.7806 Steering Value: -1Average Error::6.10257
+Min Error::0.136  Max Error::18.7806  Average Error::6.10257  Counter122
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.7839 Steering Value: -1Average Error::6.20567
+Min Error::0.136  Max Error::18.7839  Average Error::6.20567  Counter123
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.7509 Steering Value: -1Average Error::6.30684
+Min Error::0.136  Max Error::18.7839  Average Error::6.30684  Counter124
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.661 Steering Value: -1Average Error::6.40567
+Min Error::0.136  Max Error::18.7839  Average Error::6.40567  Counter125
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.5437 Steering Value: -1Average Error::6.502
+Min Error::0.136  Max Error::18.7839  Average Error::6.502  Counter126
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.3921 Steering Value: -1Average Error::6.59563
+Min Error::0.136  Max Error::18.7839  Average Error::6.59563  Counter127
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.2209 Steering Value: -1Average Error::6.68645
+Min Error::0.136  Max Error::18.7839  Average Error::6.68645  Counter128
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 18.0336 Steering Value: -1Average Error::6.77441
+Min Error::0.136  Max Error::18.7839  Average Error::6.77441  Counter129
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 17.7397 Steering Value: -1Average Error::6.85876
+Min Error::0.136  Max Error::18.7839  Average Error::6.85876  Counter130
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 17.4942 Steering Value: -1Average Error::6.93995
+Min Error::0.136  Max Error::18.7839  Average Error::6.93995  Counter131
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 17.2751 Steering Value: -1Average Error::7.01824
+Min Error::0.136  Max Error::18.7839  Average Error::7.01824  Counter132
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 16.9587 Steering Value: -1Average Error::7.09298
+Min Error::0.136  Max Error::18.7839  Average Error::7.09298  Counter133
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 16.6348 Steering Value: -1Average Error::7.16419
+Min Error::0.136  Max Error::18.7839  Average Error::7.16419  Counter134
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 16.3088 Steering Value: -1Average Error::7.23193
+Min Error::0.136  Max Error::18.7839  Average Error::7.23193  Counter135
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.9803 Steering Value: -1Average Error::7.29626
+Min Error::0.136  Max Error::18.7839  Average Error::7.29626  Counter136
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.7017 Steering Value: -1Average Error::7.35761
+Min Error::0.136  Max Error::18.7839  Average Error::7.35761  Counter137
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.2937 Steering Value: -1Average Error::7.41512
+Min Error::0.136  Max Error::18.7839  Average Error::7.41512  Counter138
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.8588 Steering Value: -1Average Error::7.46867
+Min Error::0.136  Max Error::18.7839  Average Error::7.46867  Counter139
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.5039 Steering Value: -1Average Error::7.51892
+Min Error::0.136  Max Error::18.7839  Average Error::7.51892  Counter140
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.0169 Steering Value: -1Average Error::7.56501
+Min Error::0.136  Max Error::18.7839  Average Error::7.56501  Counter141
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.6373 Steering Value: -1Average Error::7.60777
+Min Error::0.136  Max Error::18.7839  Average Error::7.60777  Counter142
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.2511 Steering Value: -1Average Error::7.64723
+Min Error::0.136  Max Error::18.7839  Average Error::7.64723  Counter143
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.7251 Steering Value: -1Average Error::7.6825
+Min Error::0.136  Max Error::18.7839  Average Error::7.6825  Counter144
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.3267 Steering Value: -1Average Error::7.71452
+Min Error::0.136  Max Error::18.7839  Average Error::7.71452  Counter145
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.7907 Steering Value: -1Average Error::7.74244
+Min Error::0.136  Max Error::18.7839  Average Error::7.74244  Counter146
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.3727 Steering Value: -1Average Error::7.76714
+Min Error::0.136  Max Error::18.7839  Average Error::7.76714  Counter147
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.7915 Steering Value: -1Average Error::7.78757
+Min Error::0.136  Max Error::18.7839  Average Error::7.78757  Counter148
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.3546 Steering Value: -1Average Error::7.8048
+Min Error::0.136  Max Error::18.7839  Average Error::7.8048  Counter149
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.9192 Steering Value: -1Average Error::7.8189
+Min Error::0.136  Max Error::18.7839  Average Error::7.8189  Counter150
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.4849 Steering Value: -1Average Error::7.82993
+Min Error::0.136  Max Error::18.7839  Average Error::7.82993  Counter151
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.9114 Steering Value: -1Average Error::7.83705
+Min Error::0.136  Max Error::18.7839  Average Error::7.83705  Counter152
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.4896 Steering Value: -1Average Error::7.84131
+Min Error::0.136  Max Error::18.7839  Average Error::7.84131  Counter153
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.0748 Steering Value: -1Average Error::7.84283
+Min Error::0.136  Max Error::18.7839  Average Error::7.84283  Counter154
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.539 Steering Value: -1Average Error::7.84087
+Min Error::0.136  Max Error::18.7839  Average Error::7.84087  Counter155
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.1597 Steering Value: -1Average Error::7.8365
+Min Error::0.136  Max Error::18.7839  Average Error::7.8365  Counter156
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.7082 Steering Value: -1Average Error::7.82931
+Min Error::0.136  Max Error::18.7839  Average Error::7.82931  Counter157
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.3832 Steering Value: -1Average Error::7.82016
+Min Error::0.136  Max Error::18.7839  Average Error::7.82016  Counter158
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 5.9651 Steering Value: -1Average Error::7.80849
+Min Error::0.136  Max Error::18.7839  Average Error::7.80849  Counter159
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 5.6544 Steering Value: -1Average Error::7.79503
+Min Error::0.136  Max Error::18.7839  Average Error::7.79503  Counter160
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 5.2428 Steering Value: -1Average Error::7.77918
+Min Error::0.136  Max Error::18.7839  Average Error::7.77918  Counter161
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 4.8394 Steering Value: -1Average Error::7.76103
+Min Error::0.136  Max Error::18.7839  Average Error::7.76103  Counter162
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 4.459 Steering Value: -1Average Error::7.74077
+Min Error::0.136  Max Error::18.7839  Average Error::7.74077  Counter163
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 4.1763 Steering Value: -1Average Error::7.71904
+Min Error::0.136  Max Error::18.7839  Average Error::7.71904  Counter164
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 3.6125 Steering Value: -1Average Error::7.69415
+Min Error::0.136  Max Error::18.7839  Average Error::7.69415  Counter165
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 3.3466 Steering Value: -1Average Error::7.66796
+Min Error::0.136  Max Error::18.7839  Average Error::7.66796  Counter166
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 3.1635 Steering Value: -1Average Error::7.64099
+Min Error::0.136  Max Error::18.7839  Average Error::7.64099  Counter167
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.9931 Steering Value: -1Average Error::7.61332
+Min Error::0.136  Max Error::18.7839  Average Error::7.61332  Counter168
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.7941 Steering Value: -1Average Error::7.58481
+Min Error::0.136  Max Error::18.7839  Average Error::7.58481  Counter169
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.6247 Steering Value: -1Average Error::7.55563
+Min Error::0.136  Max Error::18.7839  Average Error::7.55563  Counter170
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.5077 Steering Value: -1Average Error::7.52611
+Min Error::0.136  Max Error::18.7839  Average Error::7.52611  Counter171
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.3763 Steering Value: -1Average Error::7.49617
+Min Error::0.136  Max Error::18.7839  Average Error::7.49617  Counter172
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.2971 Steering Value: -1Average Error::7.46612
+Min Error::0.136  Max Error::18.7839  Average Error::7.46612  Counter173
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.2192 Steering Value: -1Average Error::7.43596
+Min Error::0.136  Max Error::18.7839  Average Error::7.43596  Counter174
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.1817 Steering Value: -1Average Error::7.40594
+Min Error::0.136  Max Error::18.7839  Average Error::7.40594  Counter175
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.1615 Steering Value: -1Average Error::7.37614
+Min Error::0.136  Max Error::18.7839  Average Error::7.37614  Counter176
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.1697 Steering Value: -1Average Error::7.34672
+Min Error::0.136  Max Error::18.7839  Average Error::7.34672  Counter177
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.2118 Steering Value: -1Average Error::7.31788
+Min Error::0.136  Max Error::18.7839  Average Error::7.31788  Counter178
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.2665 Steering Value: -1Average Error::7.28966
+Min Error::0.136  Max Error::18.7839  Average Error::7.28966  Counter179
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.3727 Steering Value: -1Average Error::7.26234
+Min Error::0.136  Max Error::18.7839  Average Error::7.26234  Counter180
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.1474 Steering Value: -1Average Error::7.2838
+Min Error::0.136  Max Error::18.7839  Average Error::7.2838  Counter181
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.7464 Steering Value: -1Average Error::7.30283
+Min Error::0.136  Max Error::18.7839  Average Error::7.30283  Counter182
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.4668 Steering Value: -1Average Error::7.32012
+Min Error::0.136  Max Error::18.7839  Average Error::7.32012  Counter183
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.2065 Steering Value: -1Average Error::7.33581
+Min Error::0.136  Max Error::18.7839  Average Error::7.33581  Counter184
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.8859 Steering Value: -1Average Error::7.34959
+Min Error::0.136  Max Error::18.7839  Average Error::7.34959  Counter185
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.6695 Steering Value: -1Average Error::7.36206
+Min Error::0.136  Max Error::18.7839  Average Error::7.36206  Counter186
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.4077 Steering Value: -1Average Error::7.373
+Min Error::0.136  Max Error::18.7839  Average Error::7.373  Counter187
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.2307 Steering Value: -1Average Error::7.38288
+Min Error::0.136  Max Error::18.7839  Average Error::7.38288  Counter188
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.0241 Steering Value: -1Average Error::7.39157
+Min Error::0.136  Max Error::18.7839  Average Error::7.39157  Counter189
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.912 Steering Value: -1Average Error::7.39957
+Min Error::0.136  Max Error::18.7839  Average Error::7.39957  Counter190
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.8408 Steering Value: -1Average Error::7.40712
+Min Error::0.136  Max Error::18.7839  Average Error::7.40712  Counter191
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.8015 Steering Value: -1Average Error::7.41438
+Min Error::0.136  Max Error::18.7839  Average Error::7.41438  Counter192
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.7939 Steering Value: -1Average Error::7.42153
+Min Error::0.136  Max Error::18.7839  Average Error::7.42153  Counter193
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.7973 Steering Value: -1Average Error::7.42862
+Min Error::0.136  Max Error::18.7839  Average Error::7.42862  Counter194
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.3768 Steering Value: -1Average Error::7.42322
+Min Error::0.136  Max Error::18.7839  Average Error::7.42322  Counter195
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.6267 Steering Value: -1Average Error::7.41916
+Min Error::0.136  Max Error::18.7839  Average Error::7.41916  Counter196
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.8691 Steering Value: -1Average Error::7.41637
+Min Error::0.136  Max Error::18.7839  Average Error::7.41637  Counter197
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.1204 Steering Value: -1Average Error::7.41487
+Min Error::0.136  Max Error::18.7839  Average Error::7.41487  Counter198
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.3823 Steering Value: -1Average Error::7.41471
+Min Error::0.136  Max Error::18.7839  Average Error::7.41471  Counter199
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.7563 Steering Value: -1Average Error::7.41642
+Min Error::0.136  Max Error::18.7839  Average Error::7.41642  Counter200
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.0407 Steering Value: -1Average Error::7.41952
+Min Error::0.136  Max Error::18.7839  Average Error::7.41952  Counter201
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.3041 Steering Value: -1Average Error::7.4239
+Min Error::0.136  Max Error::18.7839  Average Error::7.4239  Counter202
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.5653 Steering Value: -1Average Error::7.42952
+Min Error::0.136  Max Error::18.7839  Average Error::7.42952  Counter203
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.8367 Steering Value: -1Average Error::7.43642
+Min Error::0.136  Max Error::18.7839  Average Error::7.43642  Counter204
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.2155 Steering Value: -1Average Error::7.4451
+Min Error::0.136  Max Error::18.7839  Average Error::7.4451  Counter205
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.5012 Steering Value: -1Average Error::7.45508
+Min Error::0.136  Max Error::18.7839  Average Error::7.45508  Counter206
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.8835 Steering Value: -1Average Error::7.46681
+Min Error::0.136  Max Error::18.7839  Average Error::7.46681  Counter207
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.1711 Steering Value: -1Average Error::7.47981
+Min Error::0.136  Max Error::18.7839  Average Error::7.47981  Counter208
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.5538 Steering Value: -1Average Error::7.49452
+Min Error::0.136  Max Error::18.7839  Average Error::7.49452  Counter209
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.8402 Steering Value: -1Average Error::7.51045
+Min Error::0.136  Max Error::18.7839  Average Error::7.51045  Counter210
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.2199 Steering Value: -1Average Error::7.52803
+Min Error::0.136  Max Error::18.7839  Average Error::7.52803  Counter211
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.5963 Steering Value: -1Average Error::7.54722
+Min Error::0.136  Max Error::18.7839  Average Error::7.54722  Counter212
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.8729 Steering Value: -1Average Error::7.56753
+Min Error::0.136  Max Error::18.7839  Average Error::7.56753  Counter213
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.1455 Steering Value: -1Average Error::7.58893
+Min Error::0.136  Max Error::18.7839  Average Error::7.58893  Counter214
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.502 Steering Value: -1Average Error::7.61178
+Min Error::0.136  Max Error::18.7839  Average Error::7.61178  Counter215
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.7644 Steering Value: -1Average Error::7.63563
+Min Error::0.136  Max Error::18.7839  Average Error::7.63563  Counter216
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.1021 Steering Value: -1Average Error::7.66082
+Min Error::0.136  Max Error::18.7839  Average Error::7.66082  Counter217
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.4252 Steering Value: -1Average Error::7.68726
+Min Error::0.136  Max Error::18.7839  Average Error::7.68726  Counter218
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.657 Steering Value: -1Average Error::7.71452
+Min Error::0.136  Max Error::18.7839  Average Error::7.71452  Counter219
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.9511 Steering Value: -1Average Error::7.74287
+Min Error::0.136  Max Error::18.7839  Average Error::7.74287  Counter220
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.2248 Steering Value: -1Average Error::7.7722
+Min Error::0.136  Max Error::18.7839  Average Error::7.7722  Counter221
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.4759 Steering Value: -1Average Error::7.8024
+Min Error::0.136  Max Error::18.7839  Average Error::7.8024  Counter222
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.7018 Steering Value: -1Average Error::7.83334
+Min Error::0.136  Max Error::18.7839  Average Error::7.83334  Counter223
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.8538 Steering Value: -1Average Error::7.86468
+Min Error::0.136  Max Error::18.7839  Average Error::7.86468  Counter224
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.0315 Steering Value: -1Average Error::7.89653
+Min Error::0.136  Max Error::18.7839  Average Error::7.89653  Counter225
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.1792 Steering Value: -1Average Error::7.92876
+Min Error::0.136  Max Error::18.7839  Average Error::7.92876  Counter226
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.2929 Steering Value: -1Average Error::7.9612
+Min Error::0.136  Max Error::18.7839  Average Error::7.9612  Counter227
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.3705 Steering Value: -1Average Error::7.99369
+Min Error::0.136  Max Error::18.7839  Average Error::7.99369  Counter228
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.4109 Steering Value: -1Average Error::8.02608
+Min Error::0.136  Max Error::18.7839  Average Error::8.02608  Counter229
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.4126 Steering Value: -1Average Error::8.0582
+Min Error::0.136  Max Error::18.7839  Average Error::8.0582  Counter230
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.3747 Steering Value: -1Average Error::8.08987
+Min Error::0.136  Max Error::18.7839  Average Error::8.08987  Counter231
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.2956 Steering Value: -1Average Error::8.12093
+Min Error::0.136  Max Error::18.7839  Average Error::8.12093  Counter232
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.1753 Steering Value: -1Average Error::8.15121
+Min Error::0.136  Max Error::18.7839  Average Error::8.15121  Counter233
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 15.0091 Steering Value: -1Average Error::8.18051
+Min Error::0.136  Max Error::18.7839  Average Error::8.18051  Counter234
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.7415 Steering Value: -1Average Error::8.20843
+Min Error::0.136  Max Error::18.7839  Average Error::8.20843  Counter235
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.4818 Steering Value: -1Average Error::8.23502
+Min Error::0.136  Max Error::18.7839  Average Error::8.23502  Counter236
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.1806 Steering Value: -1Average Error::8.2601
+Min Error::0.136  Max Error::18.7839  Average Error::8.2601  Counter237
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.8419 Steering Value: -1Average Error::8.28356
+Min Error::0.136  Max Error::18.7839  Average Error::8.28356  Counter238
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.5639 Steering Value: -1Average Error::8.30565
+Min Error::0.136  Max Error::18.7839  Average Error::8.30565  Counter239
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.1749 Steering Value: -1Average Error::8.32594
+Min Error::0.136  Max Error::18.7839  Average Error::8.32594  Counter240
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.7509 Steering Value: -1Average Error::8.3443
+Min Error::0.136  Max Error::18.7839  Average Error::8.3443  Counter241
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.2946 Steering Value: -1Average Error::8.36062
+Min Error::0.136  Max Error::18.7839  Average Error::8.36062  Counter242
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.8107 Steering Value: -1Average Error::8.37482
+Min Error::0.136  Max Error::18.7839  Average Error::8.37482  Counter243
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.4287 Steering Value: -1Average Error::8.38734
+Min Error::0.136  Max Error::18.7839  Average Error::8.38734  Counter244
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.7656 Steering Value: -1Average Error::8.39704
+Min Error::0.136  Max Error::18.7839  Average Error::8.39704  Counter245
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.3506 Steering Value: -1Average Error::8.40498
+Min Error::0.136  Max Error::18.7839  Average Error::8.40498  Counter246
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.9285 Steering Value: -1Average Error::8.41115
+Min Error::0.136  Max Error::18.7839  Average Error::8.41115  Counter247
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.3514 Steering Value: -1Average Error::8.41494
+Min Error::0.136  Max Error::18.7839  Average Error::8.41494  Counter248
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.9094 Steering Value: -1Average Error::8.41693
+Min Error::0.136  Max Error::18.7839  Average Error::8.41693  Counter249
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.4674 Steering Value: -1Average Error::8.41713
+Min Error::0.136  Max Error::18.7839  Average Error::8.41713  Counter250
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.8723 Steering Value: -1Average Error::8.41496
+Min Error::0.136  Max Error::18.7839  Average Error::8.41496  Counter251
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.4334 Steering Value: -1Average Error::8.41107
+Min Error::0.136  Max Error::18.7839  Average Error::8.41107  Counter252
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.004 Steering Value: -1Average Error::8.4055
+Min Error::0.136  Max Error::18.7839  Average Error::8.4055  Counter253
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.6075 Steering Value: -1Average Error::8.39843
+Min Error::0.136  Max Error::18.7839  Average Error::8.39843  Counter254
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.1147 Steering Value: -1Average Error::8.38947
+Min Error::0.136  Max Error::18.7839  Average Error::8.38947  Counter255
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 5.751 Steering Value: -1Average Error::8.37916
+Min Error::0.136  Max Error::18.7839  Average Error::8.37916  Counter256
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 5.2667 Steering Value: -1Average Error::8.36705
+Min Error::0.136  Max Error::18.7839  Average Error::8.36705  Counter257
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 4.9044 Steering Value: -1Average Error::8.35363
+Min Error::0.136  Max Error::18.7839  Average Error::8.35363  Counter258
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 4.5442 Steering Value: -1Average Error::8.33892
+Min Error::0.136  Max Error::18.7839  Average Error::8.33892  Counter259
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 4.1106 Steering Value: -1Average Error::8.32266
+Min Error::0.136  Max Error::18.7839  Average Error::8.32266  Counter260
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 3.7219 Steering Value: -1Average Error::8.30503
+Min Error::0.136  Max Error::18.7839  Average Error::8.30503  Counter261
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 3.4449 Steering Value: -1Average Error::8.28648
+Min Error::0.136  Max Error::18.7839  Average Error::8.28648  Counter262
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 3.1005 Steering Value: -1Average Error::8.26676
+Min Error::0.136  Max Error::18.7839  Average Error::8.26676  Counter263
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.5795 Steering Value: -1Average Error::8.24522
+Min Error::0.136  Max Error::18.7839  Average Error::8.24522  Counter264
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.3356 Steering Value: -1Average Error::8.22292
+Min Error::0.136  Max Error::18.7839  Average Error::8.22292  Counter265
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 2.0306 Steering Value: -1Average Error::8.19964
+Min Error::0.136  Max Error::18.7839  Average Error::8.19964  Counter266
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 1.8106 Steering Value: -1Average Error::8.17571
+Min Error::0.136  Max Error::18.7839  Average Error::8.17571  Counter267
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 1.5195 Steering Value: -1Average Error::8.15088
+Min Error::0.136  Max Error::18.7839  Average Error::8.15088  Counter268
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 1.2511 Steering Value: -1Average Error::8.12523
+Min Error::0.136  Max Error::18.7839  Average Error::8.12523  Counter269
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 1.0676 Steering Value: -1Average Error::8.09909
+Min Error::0.136  Max Error::18.7839  Average Error::8.09909  Counter270
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.8502 Steering Value: -1Average Error::8.07234
+Min Error::0.136  Max Error::18.7839  Average Error::8.07234  Counter271
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.6668 Steering Value: -1Average Error::8.04511
+Min Error::0.136  Max Error::18.7839  Average Error::8.04511  Counter272
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.5202 Steering Value: -1Average Error::8.01755
+Min Error::0.136  Max Error::18.7839  Average Error::8.01755  Counter273
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.4349 Steering Value: -1Average Error::7.98987
+Min Error::0.136  Max Error::18.7839  Average Error::7.98987  Counter274
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.3548 Steering Value: -1Average Error::7.96211
+Min Error::0.136  Max Error::18.7839  Average Error::7.96211  Counter275
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.3212 Steering Value: -1Average Error::7.93443
+Min Error::0.136  Max Error::18.7839  Average Error::7.93443  Counter276
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 0.3127 Steering Value: -1Average Error::7.90691
+Min Error::0.136  Max Error::18.7839  Average Error::7.90691  Counter277
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.6077 Steering Value: -1Average Error::7.91663
+Min Error::0.136  Max Error::18.7839  Average Error::7.91663  Counter278
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.2109 Steering Value: -1Average Error::7.92485
+Min Error::0.136  Max Error::18.7839  Average Error::7.92485  Counter279
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.6913 Steering Value: -1Average Error::7.93116
+Min Error::0.136  Max Error::18.7839  Average Error::7.93116  Counter280
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.189 Steering Value: -1Average Error::7.93563
+Min Error::0.136  Max Error::18.7839  Average Error::7.93563  Counter281
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.8279 Steering Value: -1Average Error::7.9388
+Min Error::0.136  Max Error::18.7839  Average Error::7.9388  Counter282
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.3745 Steering Value: -1Average Error::7.94034
+Min Error::0.136  Max Error::18.7839  Average Error::7.94034  Counter283
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.0613 Steering Value: -1Average Error::7.94076
+Min Error::0.136  Max Error::18.7839  Average Error::7.94076  Counter284
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.6888 Steering Value: -1Average Error::7.93988
+Min Error::0.136  Max Error::18.7839  Average Error::7.93988  Counter285
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.4497 Steering Value: -1Average Error::7.93817
+Min Error::0.136  Max Error::18.7839  Average Error::7.93817  Counter286
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.1943 Steering Value: -1Average Error::7.93557
+Min Error::0.136  Max Error::18.7839  Average Error::7.93557  Counter287
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.0565 Steering Value: -1Average Error::7.93252
+Min Error::0.136  Max Error::18.7839  Average Error::7.93252  Counter288
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.9428 Steering Value: -1Average Error::7.9291
+Min Error::0.136  Max Error::18.7839  Average Error::7.9291  Counter289
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.8984 Steering Value: -1Average Error::7.92554
+Min Error::0.136  Max Error::18.7839  Average Error::7.92554  Counter290
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.9039 Steering Value: -1Average Error::7.92203
+Min Error::0.136  Max Error::18.7839  Average Error::7.92203  Counter291
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 4.7026 Steering Value: -1Average Error::7.91101
+Min Error::0.136  Max Error::18.7839  Average Error::7.91101  Counter292
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 5.0449 Steering Value: -1Average Error::7.90122
+Min Error::0.136  Max Error::18.7839  Average Error::7.90122  Counter293
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 5.3933 Steering Value: -1Average Error::7.89269
+Min Error::0.136  Max Error::18.7839  Average Error::7.89269  Counter294
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 5.7384 Steering Value: -1Average Error::7.88539
+Min Error::0.136  Max Error::18.7839  Average Error::7.88539  Counter295
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.1887 Steering Value: -1Average Error::7.87966
+Min Error::0.136  Max Error::18.7839  Average Error::7.87966  Counter296
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.527 Steering Value: -1Average Error::7.8751
+Min Error::0.136  Max Error::18.7839  Average Error::7.8751  Counter297
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 6.8688 Steering Value: -1Average Error::7.87173
+Min Error::0.136  Max Error::18.7839  Average Error::7.87173  Counter298
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.3271 Steering Value: -1Average Error::7.86991
+Min Error::0.136  Max Error::18.7839  Average Error::7.86991  Counter299
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.6787 Steering Value: -1Average Error::7.86927
+Min Error::0.136  Max Error::18.7839  Average Error::7.86927  Counter300
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.0314 Steering Value: -1Average Error::7.86981
+Min Error::0.136  Max Error::18.7839  Average Error::7.86981  Counter301
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.3808 Steering Value: -1Average Error::7.8715
+Min Error::0.136  Max Error::18.7839  Average Error::7.8715  Counter302
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.7292 Steering Value: -1Average Error::7.87433
+Min Error::0.136  Max Error::18.7839  Average Error::7.87433  Counter303
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.0744 Steering Value: -1Average Error::7.87828
+Min Error::0.136  Max Error::18.7839  Average Error::7.87828  Counter304
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.5299 Steering Value: -1Average Error::7.88369
+Min Error::0.136  Max Error::18.7839  Average Error::7.88369  Counter305
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.872 Steering Value: -1Average Error::7.89019
+Min Error::0.136  Max Error::18.7839  Average Error::7.89019  Counter306
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.3226 Steering Value: -1Average Error::7.89811
+Min Error::0.136  Max Error::18.7839  Average Error::7.89811  Counter307
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.646 Steering Value: -1Average Error::7.90704
+Min Error::0.136  Max Error::18.7839  Average Error::7.90704  Counter308
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.9612 Steering Value: -1Average Error::7.91692
+Min Error::0.136  Max Error::18.7839  Average Error::7.91692  Counter309
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.3682 Steering Value: -1Average Error::7.92805
+Min Error::0.136  Max Error::18.7839  Average Error::7.92805  Counter310
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.6643 Steering Value: -1Average Error::7.94007
+Min Error::0.136  Max Error::18.7839  Average Error::7.94007  Counter311
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.0422 Steering Value: -1Average Error::7.95321
+Min Error::0.136  Max Error::18.7839  Average Error::7.95321  Counter312
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.4015 Steering Value: -1Average Error::7.96743
+Min Error::0.136  Max Error::18.7839  Average Error::7.96743  Counter313
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.658 Steering Value: -1Average Error::7.98236
+Min Error::0.136  Max Error::18.7839  Average Error::7.98236  Counter314
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.977 Steering Value: -1Average Error::7.99822
+Min Error::0.136  Max Error::18.7839  Average Error::7.99822  Counter315
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.1982 Steering Value: -1Average Error::8.01468
+Min Error::0.136  Max Error::18.7839  Average Error::8.01468  Counter316
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.5314 Steering Value: -1Average Error::8.03208
+Min Error::0.136  Max Error::18.7839  Average Error::8.03208  Counter317
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.76 Steering Value: -1Average Error::8.05009
+Min Error::0.136  Max Error::18.7839  Average Error::8.05009  Counter318
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.9079 Steering Value: -1Average Error::8.06845
+Min Error::0.136  Max Error::18.7839  Average Error::8.06845  Counter319
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.074 Steering Value: -1Average Error::8.08722
+Min Error::0.136  Max Error::18.7839  Average Error::8.08722  Counter320
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.2015 Steering Value: -1Average Error::8.10627
+Min Error::0.136  Max Error::18.7839  Average Error::8.10627  Counter321
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.2888 Steering Value: -1Average Error::8.12547
+Min Error::0.136  Max Error::18.7839  Average Error::8.12547  Counter322
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.3388 Steering Value: -1Average Error::8.14471
+Min Error::0.136  Max Error::18.7839  Average Error::8.14471  Counter323
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.3296 Steering Value: -1Average Error::8.1638
+Min Error::0.136  Max Error::18.7839  Average Error::8.1638  Counter324
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.276 Steering Value: -1Average Error::8.1826
+Min Error::0.136  Max Error::18.7839  Average Error::8.1826  Counter325
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 14.1456 Steering Value: -1Average Error::8.20089
+Min Error::0.136  Max Error::18.7839  Average Error::8.20089  Counter326
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.9898 Steering Value: -1Average Error::8.2186
+Min Error::0.136  Max Error::18.7839  Average Error::8.2186  Counter327
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.7882 Steering Value: -1Average Error::8.23558
+Min Error::0.136  Max Error::18.7839  Average Error::8.23558  Counter328
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.5409 Steering Value: -1Average Error::8.2517
+Min Error::0.136  Max Error::18.7839  Average Error::8.2517  Counter329
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 13.1674 Steering Value: -1Average Error::8.2666
+Min Error::0.136  Max Error::18.7839  Average Error::8.2666  Counter330
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.9122 Steering Value: -1Average Error::8.28063
+Min Error::0.136  Max Error::18.7839  Average Error::8.28063  Counter331
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.5347 Steering Value: -1Average Error::8.29345
+Min Error::0.136  Max Error::18.7839  Average Error::8.29345  Counter332
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 12.117 Steering Value: -1Average Error::8.30493
+Min Error::0.136  Max Error::18.7839  Average Error::8.30493  Counter333
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.6617 Steering Value: -1Average Error::8.31498
+Min Error::0.136  Max Error::18.7839  Average Error::8.31498  Counter334
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 11.1714 Steering Value: -1Average Error::8.32351
+Min Error::0.136  Max Error::18.7839  Average Error::8.32351  Counter335
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.6495 Steering Value: -1Average Error::8.33043
+Min Error::0.136  Max Error::18.7839  Average Error::8.33043  Counter336
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 10.0994 Steering Value: -1Average Error::8.33568
+Min Error::0.136  Max Error::18.7839  Average Error::8.33568  Counter337
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.5245 Steering Value: -1Average Error::8.33919
+Min Error::0.136  Max Error::18.7839  Average Error::8.33919  Counter338
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 9.0779 Steering Value: -1Average Error::8.34137
+Min Error::0.136  Max Error::18.7839  Average Error::8.34137  Counter339
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.6254 Steering Value: -1Average Error::8.34221
+Min Error::0.136  Max Error::18.7839  Average Error::8.34221  Counter340
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 8.0083 Steering Value: -1Average Error::8.34123
+Min Error::0.136  Max Error::18.7839  Average Error::8.34123  Counter341
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.5382 Steering Value: -1Average Error::8.33888
+Min Error::0.136  Max Error::18.7839  Average Error::8.33888  Counter342
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.3031 Steering Value: -1Average Error::8.33586
+Min Error::0.136  Max Error::18.7839  Average Error::8.33586  Counter343
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2836 Steering Value: -1Average Error::8.3328
+Min Error::0.136  Max Error::18.7839  Average Error::8.3328  Counter344
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2859 Steering Value: -1Average Error::8.32977
+Min Error::0.136  Max Error::18.7839  Average Error::8.32977  Counter345
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::8.32676
+Min Error::0.136  Max Error::18.7839  Average Error::8.32676  Counter346
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::8.32376
+Min Error::0.136  Max Error::18.7839  Average Error::8.32376  Counter347
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2876 Steering Value: -1Average Error::8.32079
+Min Error::0.136  Max Error::18.7839  Average Error::8.32079  Counter348
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2874 Steering Value: -1Average Error::8.31783
+Min Error::0.136  Max Error::18.7839  Average Error::8.31783  Counter349
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2875 Steering Value: -1Average Error::8.31488
+Min Error::0.136  Max Error::18.7839  Average Error::8.31488  Counter350
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2875 Steering Value: -1Average Error::8.31195
+Min Error::0.136  Max Error::18.7839  Average Error::8.31195  Counter351
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2876 Steering Value: -1Average Error::8.30904
+Min Error::0.136  Max Error::18.7839  Average Error::8.30904  Counter352
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2876 Steering Value: -1Average Error::8.30615
+Min Error::0.136  Max Error::18.7839  Average Error::8.30615  Counter353
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2876 Steering Value: -1Average Error::8.30327
+Min Error::0.136  Max Error::18.7839  Average Error::8.30327  Counter354
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2876 Steering Value: -1Average Error::8.30041
+Min Error::0.136  Max Error::18.7839  Average Error::8.30041  Counter355
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2876 Steering Value: -1Average Error::8.29757
+Min Error::0.136  Max Error::18.7839  Average Error::8.29757  Counter356
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2876 Steering Value: -1Average Error::8.29474
+Min Error::0.136  Max Error::18.7839  Average Error::8.29474  Counter357
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2876 Steering Value: -1Average Error::8.29193
+Min Error::0.136  Max Error::18.7839  Average Error::8.29193  Counter358
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.28913
+Min Error::0.136  Max Error::18.7839  Average Error::8.28913  Counter359
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2876 Steering Value: -1Average Error::8.28635
+Min Error::0.136  Max Error::18.7839  Average Error::8.28635  Counter360
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2876 Steering Value: -1Average Error::8.28358
+Min Error::0.136  Max Error::18.7839  Average Error::8.28358  Counter361
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.28083
+Min Error::0.136  Max Error::18.7839  Average Error::8.28083  Counter362
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.27809
+Min Error::0.136  Max Error::18.7839  Average Error::8.27809  Counter363
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.27537
+Min Error::0.136  Max Error::18.7839  Average Error::8.27537  Counter364
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.27267
+Min Error::0.136  Max Error::18.7839  Average Error::8.27267  Counter365
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.26997
+Min Error::0.136  Max Error::18.7839  Average Error::8.26997  Counter366
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.2673
+Min Error::0.136  Max Error::18.7839  Average Error::8.2673  Counter367
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.26464
+Min Error::0.136  Max Error::18.7839  Average Error::8.26464  Counter368
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.26199
+Min Error::0.136  Max Error::18.7839  Average Error::8.26199  Counter369
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.25936
+Min Error::0.136  Max Error::18.7839  Average Error::8.25936  Counter370
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.25674
+Min Error::0.136  Max Error::18.7839  Average Error::8.25674  Counter371
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.25413
+Min Error::0.136  Max Error::18.7839  Average Error::8.25413  Counter372
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.25154
+Min Error::0.136  Max Error::18.7839  Average Error::8.25154  Counter373
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.24896
+Min Error::0.136  Max Error::18.7839  Average Error::8.24896  Counter374
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.2464
+Min Error::0.136  Max Error::18.7839  Average Error::8.2464  Counter375
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.24385
+Min Error::0.136  Max Error::18.7839  Average Error::8.24385  Counter376
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.24131
+Min Error::0.136  Max Error::18.7839  Average Error::8.24131  Counter377
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.23879
+Min Error::0.136  Max Error::18.7839  Average Error::8.23879  Counter378
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.23628
+Min Error::0.136  Max Error::18.7839  Average Error::8.23628  Counter379
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.23379
+Min Error::0.136  Max Error::18.7839  Average Error::8.23379  Counter380
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.2313
+Min Error::0.136  Max Error::18.7839  Average Error::8.2313  Counter381
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.22883
+Min Error::0.136  Max Error::18.7839  Average Error::8.22883  Counter382
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.22637
+Min Error::0.136  Max Error::18.7839  Average Error::8.22637  Counter383
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.22393
+Min Error::0.136  Max Error::18.7839  Average Error::8.22393  Counter384
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.2215
+Min Error::0.136  Max Error::18.7839  Average Error::8.2215  Counter385
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.21908
+Min Error::0.136  Max Error::18.7839  Average Error::8.21908  Counter386
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.21667
+Min Error::0.136  Max Error::18.7839  Average Error::8.21667  Counter387
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.21428
+Min Error::0.136  Max Error::18.7839  Average Error::8.21428  Counter388
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.2119
+Min Error::0.136  Max Error::18.7839  Average Error::8.2119  Counter389
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.20953
+Min Error::0.136  Max Error::18.7839  Average Error::8.20953  Counter390
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.20717
+Min Error::0.136  Max Error::18.7839  Average Error::8.20717  Counter391
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.20482
+Min Error::0.136  Max Error::18.7839  Average Error::8.20482  Counter392
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.20249
+Min Error::0.136  Max Error::18.7839  Average Error::8.20249  Counter393
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.20017
+Min Error::0.136  Max Error::18.7839  Average Error::8.20017  Counter394
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.19786
+Min Error::0.136  Max Error::18.7839  Average Error::8.19786  Counter395
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.19556
+Min Error::0.136  Max Error::18.7839  Average Error::8.19556  Counter396
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.19328
+Min Error::0.136  Max Error::18.7839  Average Error::8.19328  Counter397
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.191
+Min Error::0.136  Max Error::18.7839  Average Error::8.191  Counter398
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.18874
+Min Error::0.136  Max Error::18.7839  Average Error::8.18874  Counter399
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.18648
+Min Error::0.136  Max Error::18.7839  Average Error::8.18648  Counter400
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.18424
+Min Error::0.136  Max Error::18.7839  Average Error::8.18424  Counter401
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.18201
+Min Error::0.136  Max Error::18.7839  Average Error::8.18201  Counter402
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.17979
+Min Error::0.136  Max Error::18.7839  Average Error::8.17979  Counter403
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.17759
+Min Error::0.136  Max Error::18.7839  Average Error::8.17759  Counter404
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.17539
+Min Error::0.136  Max Error::18.7839  Average Error::8.17539  Counter405
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.1732
+Min Error::0.136  Max Error::18.7839  Average Error::8.1732  Counter406
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.17103
+Min Error::0.136  Max Error::18.7839  Average Error::8.17103  Counter407
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.16886
+Min Error::0.136  Max Error::18.7839  Average Error::8.16886  Counter408
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.16671
+Min Error::0.136  Max Error::18.7839  Average Error::8.16671  Counter409
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.16456
+Min Error::0.136  Max Error::18.7839  Average Error::8.16456  Counter410
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.16243
+Min Error::0.136  Max Error::18.7839  Average Error::8.16243  Counter411
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.16031
+Min Error::0.136  Max Error::18.7839  Average Error::8.16031  Counter412
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.15819
+Min Error::0.136  Max Error::18.7839  Average Error::8.15819  Counter413
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.15609
+Min Error::0.136  Max Error::18.7839  Average Error::8.15609  Counter414
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.154
+Min Error::0.136  Max Error::18.7839  Average Error::8.154  Counter415
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.15192
+Min Error::0.136  Max Error::18.7839  Average Error::8.15192  Counter416
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.14985
+Min Error::0.136  Max Error::18.7839  Average Error::8.14985  Counter417
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.14778
+Min Error::0.136  Max Error::18.7839  Average Error::8.14778  Counter418
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.14573
+Min Error::0.136  Max Error::18.7839  Average Error::8.14573  Counter419
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.14369
+Min Error::0.136  Max Error::18.7839  Average Error::8.14369  Counter420
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.14165
+Min Error::0.136  Max Error::18.7839  Average Error::8.14165  Counter421
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.13963
+Min Error::0.136  Max Error::18.7839  Average Error::8.13963  Counter422
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.13762
+Min Error::0.136  Max Error::18.7839  Average Error::8.13762  Counter423
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.13561
+Min Error::0.136  Max Error::18.7839  Average Error::8.13561  Counter424
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.13362
+Min Error::0.136  Max Error::18.7839  Average Error::8.13362  Counter425
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.13163
+Min Error::0.136  Max Error::18.7839  Average Error::8.13163  Counter426
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.12966
+Min Error::0.136  Max Error::18.7839  Average Error::8.12966  Counter427
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.12769
+Min Error::0.136  Max Error::18.7839  Average Error::8.12769  Counter428
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.12573
+Min Error::0.136  Max Error::18.7839  Average Error::8.12573  Counter429
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.12378
+Min Error::0.136  Max Error::18.7839  Average Error::8.12378  Counter430
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.12184
+Min Error::0.136  Max Error::18.7839  Average Error::8.12184  Counter431
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.11991
+Min Error::0.136  Max Error::18.7839  Average Error::8.11991  Counter432
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.11799
+Min Error::0.136  Max Error::18.7839  Average Error::8.11799  Counter433
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.11608
+Min Error::0.136  Max Error::18.7839  Average Error::8.11608  Counter434
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.11417
+Min Error::0.136  Max Error::18.7839  Average Error::8.11417  Counter435
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.11228
+Min Error::0.136  Max Error::18.7839  Average Error::8.11228  Counter436
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.11039
+Min Error::0.136  Max Error::18.7839  Average Error::8.11039  Counter437
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.10851
+Min Error::0.136  Max Error::18.7839  Average Error::8.10851  Counter438
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.10664
+Min Error::0.136  Max Error::18.7839  Average Error::8.10664  Counter439
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.10478
+Min Error::0.136  Max Error::18.7839  Average Error::8.10478  Counter440
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.10293
+Min Error::0.136  Max Error::18.7839  Average Error::8.10293  Counter441
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.10109
+Min Error::0.136  Max Error::18.7839  Average Error::8.10109  Counter442
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.09925
+Min Error::0.136  Max Error::18.7839  Average Error::8.09925  Counter443
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.09742
+Min Error::0.136  Max Error::18.7839  Average Error::8.09742  Counter444
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.0956
+Min Error::0.136  Max Error::18.7839  Average Error::8.0956  Counter445
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.09379
+Min Error::0.136  Max Error::18.7839  Average Error::8.09379  Counter446
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.09199
+Min Error::0.136  Max Error::18.7839  Average Error::8.09199  Counter447
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.09019
+Min Error::0.136  Max Error::18.7839  Average Error::8.09019  Counter448
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.08841
+Min Error::0.136  Max Error::18.7839  Average Error::8.08841  Counter449
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.08663
+Min Error::0.136  Max Error::18.7839  Average Error::8.08663  Counter450
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.08486
+Min Error::0.136  Max Error::18.7839  Average Error::8.08486  Counter451
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.08309
+Min Error::0.136  Max Error::18.7839  Average Error::8.08309  Counter452
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.08134
+Min Error::0.136  Max Error::18.7839  Average Error::8.08134  Counter453
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.07959
+Min Error::0.136  Max Error::18.7839  Average Error::8.07959  Counter454
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.07785
+Min Error::0.136  Max Error::18.7839  Average Error::8.07785  Counter455
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.07612
+Min Error::0.136  Max Error::18.7839  Average Error::8.07612  Counter456
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.07439
+Min Error::0.136  Max Error::18.7839  Average Error::8.07439  Counter457
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.07267
+Min Error::0.136  Max Error::18.7839  Average Error::8.07267  Counter458
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.07096
+Min Error::0.136  Max Error::18.7839  Average Error::8.07096  Counter459
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.06926
+Min Error::0.136  Max Error::18.7839  Average Error::8.06926  Counter460
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.06757
+Min Error::0.136  Max Error::18.7839  Average Error::8.06757  Counter461
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.06588
+Min Error::0.136  Max Error::18.7839  Average Error::8.06588  Counter462
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.0642
+Min Error::0.136  Max Error::18.7839  Average Error::8.0642  Counter463
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.06252
+Min Error::0.136  Max Error::18.7839  Average Error::8.06252  Counter464
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.06086
+Min Error::0.136  Max Error::18.7839  Average Error::8.06086  Counter465
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.0592
+Min Error::0.136  Max Error::18.7839  Average Error::8.0592  Counter466
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.05755
+Min Error::0.136  Max Error::18.7839  Average Error::8.05755  Counter467
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.0559
+Min Error::0.136  Max Error::18.7839  Average Error::8.0559  Counter468
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.05426
+Min Error::0.136  Max Error::18.7839  Average Error::8.05426  Counter469
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.05263
+Min Error::0.136  Max Error::18.7839  Average Error::8.05263  Counter470
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.05101
+Min Error::0.136  Max Error::18.7839  Average Error::8.05101  Counter471
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.04939
+Min Error::0.136  Max Error::18.7839  Average Error::8.04939  Counter472
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::8.04778
+Min Error::0.136  Max Error::18.7839  Average Error::8.04778  Counter473
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.04618
+Min Error::0.136  Max Error::18.7839  Average Error::8.04618  Counter474
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.04458
+Min Error::0.136  Max Error::18.7839  Average Error::8.04458  Counter475
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.04299
+Min Error::0.136  Max Error::18.7839  Average Error::8.04299  Counter476
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.04141
+Min Error::0.136  Max Error::18.7839  Average Error::8.04141  Counter477
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.03983
+Min Error::0.136  Max Error::18.7839  Average Error::8.03983  Counter478
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.03826
+Min Error::0.136  Max Error::18.7839  Average Error::8.03826  Counter479
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.0367
+Min Error::0.136  Max Error::18.7839  Average Error::8.0367  Counter480
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.03514
+Min Error::0.136  Max Error::18.7839  Average Error::8.03514  Counter481
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.03359
+Min Error::0.136  Max Error::18.7839  Average Error::8.03359  Counter482
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.03205
+Min Error::0.136  Max Error::18.7839  Average Error::8.03205  Counter483
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.03051
+Min Error::0.136  Max Error::18.7839  Average Error::8.03051  Counter484
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.02898
+Min Error::0.136  Max Error::18.7839  Average Error::8.02898  Counter485
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.02745
+Min Error::0.136  Max Error::18.7839  Average Error::8.02745  Counter486
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.02593
+Min Error::0.136  Max Error::18.7839  Average Error::8.02593  Counter487
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.02442
+Min Error::0.136  Max Error::18.7839  Average Error::8.02442  Counter488
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.02292
+Min Error::0.136  Max Error::18.7839  Average Error::8.02292  Counter489
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.02142
+Min Error::0.136  Max Error::18.7839  Average Error::8.02142  Counter490
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.01992
+Min Error::0.136  Max Error::18.7839  Average Error::8.01992  Counter491
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.01843
+Min Error::0.136  Max Error::18.7839  Average Error::8.01843  Counter492
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.01695
+Min Error::0.136  Max Error::18.7839  Average Error::8.01695  Counter493
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.01548
+Min Error::0.136  Max Error::18.7839  Average Error::8.01548  Counter494
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.01401
+Min Error::0.136  Max Error::18.7839  Average Error::8.01401  Counter495
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.01254
+Min Error::0.136  Max Error::18.7839  Average Error::8.01254  Counter496
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.01108
+Min Error::0.136  Max Error::18.7839  Average Error::8.01108  Counter497
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.00963
+Min Error::0.136  Max Error::18.7839  Average Error::8.00963  Counter498
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.00818
+Min Error::0.136  Max Error::18.7839  Average Error::8.00818  Counter499
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.00674
+Min Error::0.136  Max Error::18.7839  Average Error::8.00674  Counter500
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.00531
+Min Error::0.136  Max Error::18.7839  Average Error::8.00531  Counter501
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.00388
+Min Error::0.136  Max Error::18.7839  Average Error::8.00388  Counter502
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.00246
+Min Error::0.136  Max Error::18.7839  Average Error::8.00246  Counter503
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::8.00104
+Min Error::0.136  Max Error::18.7839  Average Error::8.00104  Counter504
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.99962
+Min Error::0.136  Max Error::18.7839  Average Error::7.99962  Counter505
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.99822
+Min Error::0.136  Max Error::18.7839  Average Error::7.99822  Counter506
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.99682
+Min Error::0.136  Max Error::18.7839  Average Error::7.99682  Counter507
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.99542
+Min Error::0.136  Max Error::18.7839  Average Error::7.99542  Counter508
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.99403
+Min Error::0.136  Max Error::18.7839  Average Error::7.99403  Counter509
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.99265
+Min Error::0.136  Max Error::18.7839  Average Error::7.99265  Counter510
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.99127
+Min Error::0.136  Max Error::18.7839  Average Error::7.99127  Counter511
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.98989
+Min Error::0.136  Max Error::18.7839  Average Error::7.98989  Counter512
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.98852
+Min Error::0.136  Max Error::18.7839  Average Error::7.98852  Counter513
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.98716
+Min Error::0.136  Max Error::18.7839  Average Error::7.98716  Counter514
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.9858
+Min Error::0.136  Max Error::18.7839  Average Error::7.9858  Counter515
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.98445
+Min Error::0.136  Max Error::18.7839  Average Error::7.98445  Counter516
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.9831
+Min Error::0.136  Max Error::18.7839  Average Error::7.9831  Counter517
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.98176
+Min Error::0.136  Max Error::18.7839  Average Error::7.98176  Counter518
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.98042
+Min Error::0.136  Max Error::18.7839  Average Error::7.98042  Counter519
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.97909
+Min Error::0.136  Max Error::18.7839  Average Error::7.97909  Counter520
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.97776
+Min Error::0.136  Max Error::18.7839  Average Error::7.97776  Counter521
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.97644
+Min Error::0.136  Max Error::18.7839  Average Error::7.97644  Counter522
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.97513
+Min Error::0.136  Max Error::18.7839  Average Error::7.97513  Counter523
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.97381
+Min Error::0.136  Max Error::18.7839  Average Error::7.97381  Counter524
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.97251
+Min Error::0.136  Max Error::18.7839  Average Error::7.97251  Counter525
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.97121
+Min Error::0.136  Max Error::18.7839  Average Error::7.97121  Counter526
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.96991
+Min Error::0.136  Max Error::18.7839  Average Error::7.96991  Counter527
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.96862
+Min Error::0.136  Max Error::18.7839  Average Error::7.96862  Counter528
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.96733
+Min Error::0.136  Max Error::18.7839  Average Error::7.96733  Counter529
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.96605
+Min Error::0.136  Max Error::18.7839  Average Error::7.96605  Counter530
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.96477
+Min Error::0.136  Max Error::18.7839  Average Error::7.96477  Counter531
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.9635
+Min Error::0.136  Max Error::18.7839  Average Error::7.9635  Counter532
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.96223
+Min Error::0.136  Max Error::18.7839  Average Error::7.96223  Counter533
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.96097
+Min Error::0.136  Max Error::18.7839  Average Error::7.96097  Counter534
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.95971
+Min Error::0.136  Max Error::18.7839  Average Error::7.95971  Counter535
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.95846
+Min Error::0.136  Max Error::18.7839  Average Error::7.95846  Counter536
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.95721
+Min Error::0.136  Max Error::18.7839  Average Error::7.95721  Counter537
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.95596
+Min Error::0.136  Max Error::18.7839  Average Error::7.95596  Counter538
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.95472
+Min Error::0.136  Max Error::18.7839  Average Error::7.95472  Counter539
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.95349
+Min Error::0.136  Max Error::18.7839  Average Error::7.95349  Counter540
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.95226
+Min Error::0.136  Max Error::18.7839  Average Error::7.95226  Counter541
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.95103
+Min Error::0.136  Max Error::18.7839  Average Error::7.95103  Counter542
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.94981
+Min Error::0.136  Max Error::18.7839  Average Error::7.94981  Counter543
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.94859
+Min Error::0.136  Max Error::18.7839  Average Error::7.94859  Counter544
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.94738
+Min Error::0.136  Max Error::18.7839  Average Error::7.94738  Counter545
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.94617
+Min Error::0.136  Max Error::18.7839  Average Error::7.94617  Counter546
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.94497
+Min Error::0.136  Max Error::18.7839  Average Error::7.94497  Counter547
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.94377
+Min Error::0.136  Max Error::18.7839  Average Error::7.94377  Counter548
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.94258
+Min Error::0.136  Max Error::18.7839  Average Error::7.94258  Counter549
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.94139
+Min Error::0.136  Max Error::18.7839  Average Error::7.94139  Counter550
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.9402
+Min Error::0.136  Max Error::18.7839  Average Error::7.9402  Counter551
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.93902
+Min Error::0.136  Max Error::18.7839  Average Error::7.93902  Counter552
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.93784
+Min Error::0.136  Max Error::18.7839  Average Error::7.93784  Counter553
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.93667
+Min Error::0.136  Max Error::18.7839  Average Error::7.93667  Counter554
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.9355
+Min Error::0.136  Max Error::18.7839  Average Error::7.9355  Counter555
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.93433
+Min Error::0.136  Max Error::18.7839  Average Error::7.93433  Counter556
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.93317
+Min Error::0.136  Max Error::18.7839  Average Error::7.93317  Counter557
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.93202
+Min Error::0.136  Max Error::18.7839  Average Error::7.93202  Counter558
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.93086
+Min Error::0.136  Max Error::18.7839  Average Error::7.93086  Counter559
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.92972
+Min Error::0.136  Max Error::18.7839  Average Error::7.92972  Counter560
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.92857
+Min Error::0.136  Max Error::18.7839  Average Error::7.92857  Counter561
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.92743
+Min Error::0.136  Max Error::18.7839  Average Error::7.92743  Counter562
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.92629
+Min Error::0.136  Max Error::18.7839  Average Error::7.92629  Counter563
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.92516
+Min Error::0.136  Max Error::18.7839  Average Error::7.92516  Counter564
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.92403
+Min Error::0.136  Max Error::18.7839  Average Error::7.92403  Counter565
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.92291
+Min Error::0.136  Max Error::18.7839  Average Error::7.92291  Counter566
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.92179
+Min Error::0.136  Max Error::18.7839  Average Error::7.92179  Counter567
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.92067
+Min Error::0.136  Max Error::18.7839  Average Error::7.92067  Counter568
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.91956
+Min Error::0.136  Max Error::18.7839  Average Error::7.91956  Counter569
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.91845
+Min Error::0.136  Max Error::18.7839  Average Error::7.91845  Counter570
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.91735
+Min Error::0.136  Max Error::18.7839  Average Error::7.91735  Counter571
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.91625
+Min Error::0.136  Max Error::18.7839  Average Error::7.91625  Counter572
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.91515
+Min Error::0.136  Max Error::18.7839  Average Error::7.91515  Counter573
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.91406
+Min Error::0.136  Max Error::18.7839  Average Error::7.91406  Counter574
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.91297
+Min Error::0.136  Max Error::18.7839  Average Error::7.91297  Counter575
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.91188
+Min Error::0.136  Max Error::18.7839  Average Error::7.91188  Counter576
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.9108
+Min Error::0.136  Max Error::18.7839  Average Error::7.9108  Counter577
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.90972
+Min Error::0.136  Max Error::18.7839  Average Error::7.90972  Counter578
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.90865
+Min Error::0.136  Max Error::18.7839  Average Error::7.90865  Counter579
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.90758
+Min Error::0.136  Max Error::18.7839  Average Error::7.90758  Counter580
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.90651
+Min Error::0.136  Max Error::18.7839  Average Error::7.90651  Counter581
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.90545
+Min Error::0.136  Max Error::18.7839  Average Error::7.90545  Counter582
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.90439
+Min Error::0.136  Max Error::18.7839  Average Error::7.90439  Counter583
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.90334
+Min Error::0.136  Max Error::18.7839  Average Error::7.90334  Counter584
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.90228
+Min Error::0.136  Max Error::18.7839  Average Error::7.90228  Counter585
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.90123
+Min Error::0.136  Max Error::18.7839  Average Error::7.90123  Counter586
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.90019
+Min Error::0.136  Max Error::18.7839  Average Error::7.90019  Counter587
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.89915
+Min Error::0.136  Max Error::18.7839  Average Error::7.89915  Counter588
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.89811
+Min Error::0.136  Max Error::18.7839  Average Error::7.89811  Counter589
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.89708
+Min Error::0.136  Max Error::18.7839  Average Error::7.89708  Counter590
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.89604
+Min Error::0.136  Max Error::18.7839  Average Error::7.89604  Counter591
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.89502
+Min Error::0.136  Max Error::18.7839  Average Error::7.89502  Counter592
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.89399
+Min Error::0.136  Max Error::18.7839  Average Error::7.89399  Counter593
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.89297
+Min Error::0.136  Max Error::18.7839  Average Error::7.89297  Counter594
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.89196
+Min Error::0.136  Max Error::18.7839  Average Error::7.89196  Counter595
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.89094
+Min Error::0.136  Max Error::18.7839  Average Error::7.89094  Counter596
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88993
+Min Error::0.136  Max Error::18.7839  Average Error::7.88993  Counter597
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88892
+Min Error::0.136  Max Error::18.7839  Average Error::7.88892  Counter598
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88792
+Min Error::0.136  Max Error::18.7839  Average Error::7.88792  Counter599
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88692
+Min Error::0.136  Max Error::18.7839  Average Error::7.88692  Counter600
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88592
+Min Error::0.136  Max Error::18.7839  Average Error::7.88592  Counter601
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88493
+Min Error::0.136  Max Error::18.7839  Average Error::7.88493  Counter602
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88394
+Min Error::0.136  Max Error::18.7839  Average Error::7.88394  Counter603
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88295
+Min Error::0.136  Max Error::18.7839  Average Error::7.88295  Counter604
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88197
+Min Error::0.136  Max Error::18.7839  Average Error::7.88197  Counter605
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88099
+Min Error::0.136  Max Error::18.7839  Average Error::7.88099  Counter606
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.88001
+Min Error::0.136  Max Error::18.7839  Average Error::7.88001  Counter607
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.87904
+Min Error::0.136  Max Error::18.7839  Average Error::7.87904  Counter608
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.87807
+Min Error::0.136  Max Error::18.7839  Average Error::7.87807  Counter609
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.8771
+Min Error::0.136  Max Error::18.7839  Average Error::7.8771  Counter610
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.87613
+Min Error::0.136  Max Error::18.7839  Average Error::7.87613  Counter611
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.87517
+Min Error::0.136  Max Error::18.7839  Average Error::7.87517  Counter612
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.87422
+Min Error::0.136  Max Error::18.7839  Average Error::7.87422  Counter613
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.87326
+Min Error::0.136  Max Error::18.7839  Average Error::7.87326  Counter614
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.87231
+Min Error::0.136  Max Error::18.7839  Average Error::7.87231  Counter615
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.87136
+Min Error::0.136  Max Error::18.7839  Average Error::7.87136  Counter616
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.87041
+Min Error::0.136  Max Error::18.7839  Average Error::7.87041  Counter617
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.86947
+Min Error::0.136  Max Error::18.7839  Average Error::7.86947  Counter618
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.86853
+Min Error::0.136  Max Error::18.7839  Average Error::7.86853  Counter619
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.86759
+Min Error::0.136  Max Error::18.7839  Average Error::7.86759  Counter620
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.86666
+Min Error::0.136  Max Error::18.7839  Average Error::7.86666  Counter621
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.86573
+Min Error::0.136  Max Error::18.7839  Average Error::7.86573  Counter622
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.8648
+Min Error::0.136  Max Error::18.7839  Average Error::7.8648  Counter623
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.86388
+Min Error::0.136  Max Error::18.7839  Average Error::7.86388  Counter624
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.86296
+Min Error::0.136  Max Error::18.7839  Average Error::7.86296  Counter625
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.86204
+Min Error::0.136  Max Error::18.7839  Average Error::7.86204  Counter626
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.86112
+Min Error::0.136  Max Error::18.7839  Average Error::7.86112  Counter627
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.86021
+Min Error::0.136  Max Error::18.7839  Average Error::7.86021  Counter628
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.8593
+Min Error::0.136  Max Error::18.7839  Average Error::7.8593  Counter629
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.85839
+Min Error::0.136  Max Error::18.7839  Average Error::7.85839  Counter630
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.85749
+Min Error::0.136  Max Error::18.7839  Average Error::7.85749  Counter631
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.85659
+Min Error::0.136  Max Error::18.7839  Average Error::7.85659  Counter632
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.85569
+Min Error::0.136  Max Error::18.7839  Average Error::7.85569  Counter633
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.85479
+Min Error::0.136  Max Error::18.7839  Average Error::7.85479  Counter634
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.8539
+Min Error::0.136  Max Error::18.7839  Average Error::7.8539  Counter635
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.85301
+Min Error::0.136  Max Error::18.7839  Average Error::7.85301  Counter636
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.85212
+Min Error::0.136  Max Error::18.7839  Average Error::7.85212  Counter637
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.85124
+Min Error::0.136  Max Error::18.7839  Average Error::7.85124  Counter638
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.85035
+Min Error::0.136  Max Error::18.7839  Average Error::7.85035  Counter639
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.84948
+Min Error::0.136  Max Error::18.7839  Average Error::7.84948  Counter640
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.8486
+Min Error::0.136  Max Error::18.7839  Average Error::7.8486  Counter641
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.84773
+Min Error::0.136  Max Error::18.7839  Average Error::7.84773  Counter642
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.84686
+Min Error::0.136  Max Error::18.7839  Average Error::7.84686  Counter643
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.84599
+Min Error::0.136  Max Error::18.7839  Average Error::7.84599  Counter644
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.84512
+Min Error::0.136  Max Error::18.7839  Average Error::7.84512  Counter645
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.84426
+Min Error::0.136  Max Error::18.7839  Average Error::7.84426  Counter646
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.8434
+Min Error::0.136  Max Error::18.7839  Average Error::7.8434  Counter647
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.84254
+Min Error::0.136  Max Error::18.7839  Average Error::7.84254  Counter648
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.84169
+Min Error::0.136  Max Error::18.7839  Average Error::7.84169  Counter649
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.84083
+Min Error::0.136  Max Error::18.7839  Average Error::7.84083  Counter650
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83999
+Min Error::0.136  Max Error::18.7839  Average Error::7.83999  Counter651
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83914
+Min Error::0.136  Max Error::18.7839  Average Error::7.83914  Counter652
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83829
+Min Error::0.136  Max Error::18.7839  Average Error::7.83829  Counter653
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83745
+Min Error::0.136  Max Error::18.7839  Average Error::7.83745  Counter654
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83661
+Min Error::0.136  Max Error::18.7839  Average Error::7.83661  Counter655
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83578
+Min Error::0.136  Max Error::18.7839  Average Error::7.83578  Counter656
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83494
+Min Error::0.136  Max Error::18.7839  Average Error::7.83494  Counter657
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83411
+Min Error::0.136  Max Error::18.7839  Average Error::7.83411  Counter658
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83328
+Min Error::0.136  Max Error::18.7839  Average Error::7.83328  Counter659
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83246
+Min Error::0.136  Max Error::18.7839  Average Error::7.83246  Counter660
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83163
+Min Error::0.136  Max Error::18.7839  Average Error::7.83163  Counter661
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.83081
+Min Error::0.136  Max Error::18.7839  Average Error::7.83081  Counter662
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.82999
+Min Error::0.136  Max Error::18.7839  Average Error::7.82999  Counter663
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.82917
+Min Error::0.136  Max Error::18.7839  Average Error::7.82917  Counter664
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.82836
+Min Error::0.136  Max Error::18.7839  Average Error::7.82836  Counter665
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.82755
+Min Error::0.136  Max Error::18.7839  Average Error::7.82755  Counter666
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.82674
+Min Error::0.136  Max Error::18.7839  Average Error::7.82674  Counter667
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.82593
+Min Error::0.136  Max Error::18.7839  Average Error::7.82593  Counter668
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.82513
+Min Error::0.136  Max Error::18.7839  Average Error::7.82513  Counter669
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.82433
+Min Error::0.136  Max Error::18.7839  Average Error::7.82433  Counter670
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.82353
+Min Error::0.136  Max Error::18.7839  Average Error::7.82353  Counter671
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.82273
+Min Error::0.136  Max Error::18.7839  Average Error::7.82273  Counter672
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.82193
+Min Error::0.136  Max Error::18.7839  Average Error::7.82193  Counter673
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.82114
+Min Error::0.136  Max Error::18.7839  Average Error::7.82114  Counter674
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.82035
+Min Error::0.136  Max Error::18.7839  Average Error::7.82035  Counter675
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.81956
+Min Error::0.136  Max Error::18.7839  Average Error::7.81956  Counter676
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.81878
+Min Error::0.136  Max Error::18.7839  Average Error::7.81878  Counter677
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.81799
+Min Error::0.136  Max Error::18.7839  Average Error::7.81799  Counter678
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.81721
+Min Error::0.136  Max Error::18.7839  Average Error::7.81721  Counter679
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.81644
+Min Error::0.136  Max Error::18.7839  Average Error::7.81644  Counter680
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.81566
+Min Error::0.136  Max Error::18.7839  Average Error::7.81566  Counter681
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.81488
+Min Error::0.136  Max Error::18.7839  Average Error::7.81488  Counter682
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.81411
+Min Error::0.136  Max Error::18.7839  Average Error::7.81411  Counter683
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.81334
+Min Error::0.136  Max Error::18.7839  Average Error::7.81334  Counter684
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.81258
+Min Error::0.136  Max Error::18.7839  Average Error::7.81258  Counter685
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.81181
+Min Error::0.136  Max Error::18.7839  Average Error::7.81181  Counter686
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.81105
+Min Error::0.136  Max Error::18.7839  Average Error::7.81105  Counter687
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.81029
+Min Error::0.136  Max Error::18.7839  Average Error::7.81029  Counter688
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.80953
+Min Error::0.136  Max Error::18.7839  Average Error::7.80953  Counter689
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.80877
+Min Error::0.136  Max Error::18.7839  Average Error::7.80877  Counter690
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.80802
+Min Error::0.136  Max Error::18.7839  Average Error::7.80802  Counter691
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.80727
+Min Error::0.136  Max Error::18.7839  Average Error::7.80727  Counter692
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.80652
+Min Error::0.136  Max Error::18.7839  Average Error::7.80652  Counter693
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2877 Steering Value: -1Average Error::7.80577
+Min Error::0.136  Max Error::18.7839  Average Error::7.80577  Counter694
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.80502
+Min Error::0.136  Max Error::18.7839  Average Error::7.80502  Counter695
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.80428
+Min Error::0.136  Max Error::18.7839  Average Error::7.80428  Counter696
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.80354
+Min Error::0.136  Max Error::18.7839  Average Error::7.80354  Counter697
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.8028
+Min Error::0.136  Max Error::18.7839  Average Error::7.8028  Counter698
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.80206
+Min Error::0.136  Max Error::18.7839  Average Error::7.80206  Counter699
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.80133
+Min Error::0.136  Max Error::18.7839  Average Error::7.80133  Counter700
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.8006
+Min Error::0.136  Max Error::18.7839  Average Error::7.8006  Counter701
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79987
+Min Error::0.136  Max Error::18.7839  Average Error::7.79987  Counter702
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79914
+Min Error::0.136  Max Error::18.7839  Average Error::7.79914  Counter703
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79841
+Min Error::0.136  Max Error::18.7839  Average Error::7.79841  Counter704
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79769
+Min Error::0.136  Max Error::18.7839  Average Error::7.79769  Counter705
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79697
+Min Error::0.136  Max Error::18.7839  Average Error::7.79697  Counter706
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79625
+Min Error::0.136  Max Error::18.7839  Average Error::7.79625  Counter707
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79553
+Min Error::0.136  Max Error::18.7839  Average Error::7.79553  Counter708
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79481
+Min Error::0.136  Max Error::18.7839  Average Error::7.79481  Counter709
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7941
+Min Error::0.136  Max Error::18.7839  Average Error::7.7941  Counter710
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79338
+Min Error::0.136  Max Error::18.7839  Average Error::7.79338  Counter711
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79267
+Min Error::0.136  Max Error::18.7839  Average Error::7.79267  Counter712
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79197
+Min Error::0.136  Max Error::18.7839  Average Error::7.79197  Counter713
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79126
+Min Error::0.136  Max Error::18.7839  Average Error::7.79126  Counter714
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.79056
+Min Error::0.136  Max Error::18.7839  Average Error::7.79056  Counter715
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78985
+Min Error::0.136  Max Error::18.7839  Average Error::7.78985  Counter716
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78915
+Min Error::0.136  Max Error::18.7839  Average Error::7.78915  Counter717
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78846
+Min Error::0.136  Max Error::18.7839  Average Error::7.78846  Counter718
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78776
+Min Error::0.136  Max Error::18.7839  Average Error::7.78776  Counter719
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78707
+Min Error::0.136  Max Error::18.7839  Average Error::7.78707  Counter720
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78637
+Min Error::0.136  Max Error::18.7839  Average Error::7.78637  Counter721
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78568
+Min Error::0.136  Max Error::18.7839  Average Error::7.78568  Counter722
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78499
+Min Error::0.136  Max Error::18.7839  Average Error::7.78499  Counter723
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78431
+Min Error::0.136  Max Error::18.7839  Average Error::7.78431  Counter724
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78362
+Min Error::0.136  Max Error::18.7839  Average Error::7.78362  Counter725
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78294
+Min Error::0.136  Max Error::18.7839  Average Error::7.78294  Counter726
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78226
+Min Error::0.136  Max Error::18.7839  Average Error::7.78226  Counter727
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78158
+Min Error::0.136  Max Error::18.7839  Average Error::7.78158  Counter728
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.7809
+Min Error::0.136  Max Error::18.7839  Average Error::7.7809  Counter729
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.78023
+Min Error::0.136  Max Error::18.7839  Average Error::7.78023  Counter730
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77955
+Min Error::0.136  Max Error::18.7839  Average Error::7.77955  Counter731
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77888
+Min Error::0.136  Max Error::18.7839  Average Error::7.77888  Counter732
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77821
+Min Error::0.136  Max Error::18.7839  Average Error::7.77821  Counter733
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77754
+Min Error::0.136  Max Error::18.7839  Average Error::7.77754  Counter734
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.77688
+Min Error::0.136  Max Error::18.7839  Average Error::7.77688  Counter735
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77621
+Min Error::0.136  Max Error::18.7839  Average Error::7.77621  Counter736
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.77555
+Min Error::0.136  Max Error::18.7839  Average Error::7.77555  Counter737
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.77489
+Min Error::0.136  Max Error::18.7839  Average Error::7.77489  Counter738
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77423
+Min Error::0.136  Max Error::18.7839  Average Error::7.77423  Counter739
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77357
+Min Error::0.136  Max Error::18.7839  Average Error::7.77357  Counter740
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77292
+Min Error::0.136  Max Error::18.7839  Average Error::7.77292  Counter741
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.77226
+Min Error::0.136  Max Error::18.7839  Average Error::7.77226  Counter742
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77161
+Min Error::0.136  Max Error::18.7839  Average Error::7.77161  Counter743
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77096
+Min Error::0.136  Max Error::18.7839  Average Error::7.77096  Counter744
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.77031
+Min Error::0.136  Max Error::18.7839  Average Error::7.77031  Counter745
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.76967
+Min Error::0.136  Max Error::18.7839  Average Error::7.76967  Counter746
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.76902
+Min Error::0.136  Max Error::18.7839  Average Error::7.76902  Counter747
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.76838
+Min Error::0.136  Max Error::18.7839  Average Error::7.76838  Counter748
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.76774
+Min Error::0.136  Max Error::18.7839  Average Error::7.76774  Counter749
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7671
+Min Error::0.136  Max Error::18.7839  Average Error::7.7671  Counter750
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.76646
+Min Error::0.136  Max Error::18.7839  Average Error::7.76646  Counter751
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.76582
+Min Error::0.136  Max Error::18.7839  Average Error::7.76582  Counter752
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.76519
+Min Error::0.136  Max Error::18.7839  Average Error::7.76519  Counter753
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.76455
+Min Error::0.136  Max Error::18.7839  Average Error::7.76455  Counter754
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.76392
+Min Error::0.136  Max Error::18.7839  Average Error::7.76392  Counter755
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2879 Steering Value: -1Average Error::7.76329
+Min Error::0.136  Max Error::18.7839  Average Error::7.76329  Counter756
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.76266
+Min Error::0.136  Max Error::18.7839  Average Error::7.76266  Counter757
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.76204
+Min Error::0.136  Max Error::18.7839  Average Error::7.76204  Counter758
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.76141
+Min Error::0.136  Max Error::18.7839  Average Error::7.76141  Counter759
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.76079
+Min Error::0.136  Max Error::18.7839  Average Error::7.76079  Counter760
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.76017
+Min Error::0.136  Max Error::18.7839  Average Error::7.76017  Counter761
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75955
+Min Error::0.136  Max Error::18.7839  Average Error::7.75955  Counter762
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75893
+Min Error::0.136  Max Error::18.7839  Average Error::7.75893  Counter763
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75831
+Min Error::0.136  Max Error::18.7839  Average Error::7.75831  Counter764
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7577
+Min Error::0.136  Max Error::18.7839  Average Error::7.7577  Counter765
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75708
+Min Error::0.136  Max Error::18.7839  Average Error::7.75708  Counter766
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75647
+Min Error::0.136  Max Error::18.7839  Average Error::7.75647  Counter767
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75586
+Min Error::0.136  Max Error::18.7839  Average Error::7.75586  Counter768
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75525
+Min Error::0.136  Max Error::18.7839  Average Error::7.75525  Counter769
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75465
+Min Error::0.136  Max Error::18.7839  Average Error::7.75465  Counter770
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75404
+Min Error::0.136  Max Error::18.7839  Average Error::7.75404  Counter771
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75344
+Min Error::0.136  Max Error::18.7839  Average Error::7.75344  Counter772
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75283
+Min Error::0.136  Max Error::18.7839  Average Error::7.75283  Counter773
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75223
+Min Error::0.136  Max Error::18.7839  Average Error::7.75223  Counter774
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75163
+Min Error::0.136  Max Error::18.7839  Average Error::7.75163  Counter775
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75104
+Min Error::0.136  Max Error::18.7839  Average Error::7.75104  Counter776
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.75044
+Min Error::0.136  Max Error::18.7839  Average Error::7.75044  Counter777
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74985
+Min Error::0.136  Max Error::18.7839  Average Error::7.74985  Counter778
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74925
+Min Error::0.136  Max Error::18.7839  Average Error::7.74925  Counter779
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74866
+Min Error::0.136  Max Error::18.7839  Average Error::7.74866  Counter780
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74807
+Min Error::0.136  Max Error::18.7839  Average Error::7.74807  Counter781
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74748
+Min Error::0.136  Max Error::18.7839  Average Error::7.74748  Counter782
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7469
+Min Error::0.136  Max Error::18.7839  Average Error::7.7469  Counter783
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74631
+Min Error::0.136  Max Error::18.7839  Average Error::7.74631  Counter784
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74573
+Min Error::0.136  Max Error::18.7839  Average Error::7.74573  Counter785
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74514
+Min Error::0.136  Max Error::18.7839  Average Error::7.74514  Counter786
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74456
+Min Error::0.136  Max Error::18.7839  Average Error::7.74456  Counter787
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74398
+Min Error::0.136  Max Error::18.7839  Average Error::7.74398  Counter788
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7434
+Min Error::0.136  Max Error::18.7839  Average Error::7.7434  Counter789
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74283
+Min Error::0.136  Max Error::18.7839  Average Error::7.74283  Counter790
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74225
+Min Error::0.136  Max Error::18.7839  Average Error::7.74225  Counter791
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74168
+Min Error::0.136  Max Error::18.7839  Average Error::7.74168  Counter792
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74111
+Min Error::0.136  Max Error::18.7839  Average Error::7.74111  Counter793
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.74054
+Min Error::0.136  Max Error::18.7839  Average Error::7.74054  Counter794
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73997
+Min Error::0.136  Max Error::18.7839  Average Error::7.73997  Counter795
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7394
+Min Error::0.136  Max Error::18.7839  Average Error::7.7394  Counter796
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73883
+Min Error::0.136  Max Error::18.7839  Average Error::7.73883  Counter797
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73827
+Min Error::0.136  Max Error::18.7839  Average Error::7.73827  Counter798
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7377
+Min Error::0.136  Max Error::18.7839  Average Error::7.7377  Counter799
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73714
+Min Error::0.136  Max Error::18.7839  Average Error::7.73714  Counter800
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73658
+Min Error::0.136  Max Error::18.7839  Average Error::7.73658  Counter801
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73602
+Min Error::0.136  Max Error::18.7839  Average Error::7.73602  Counter802
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73546
+Min Error::0.136  Max Error::18.7839  Average Error::7.73546  Counter803
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7349
+Min Error::0.136  Max Error::18.7839  Average Error::7.7349  Counter804
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73435
+Min Error::0.136  Max Error::18.7839  Average Error::7.73435  Counter805
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7338
+Min Error::0.136  Max Error::18.7839  Average Error::7.7338  Counter806
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73324
+Min Error::0.136  Max Error::18.7839  Average Error::7.73324  Counter807
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73269
+Min Error::0.136  Max Error::18.7839  Average Error::7.73269  Counter808
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73214
+Min Error::0.136  Max Error::18.7839  Average Error::7.73214  Counter809
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73159
+Min Error::0.136  Max Error::18.7839  Average Error::7.73159  Counter810
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.73105
+Min Error::0.136  Max Error::18.7839  Average Error::7.73105  Counter811
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7305
+Min Error::0.136  Max Error::18.7839  Average Error::7.7305  Counter812
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72995
+Min Error::0.136  Max Error::18.7839  Average Error::7.72995  Counter813
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72941
+Min Error::0.136  Max Error::18.7839  Average Error::7.72941  Counter814
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72887
+Min Error::0.136  Max Error::18.7839  Average Error::7.72887  Counter815
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72833
+Min Error::0.136  Max Error::18.7839  Average Error::7.72833  Counter816
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72779
+Min Error::0.136  Max Error::18.7839  Average Error::7.72779  Counter817
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72725
+Min Error::0.136  Max Error::18.7839  Average Error::7.72725  Counter818
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72672
+Min Error::0.136  Max Error::18.7839  Average Error::7.72672  Counter819
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72618
+Min Error::0.136  Max Error::18.7839  Average Error::7.72618  Counter820
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72565
+Min Error::0.136  Max Error::18.7839  Average Error::7.72565  Counter821
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72511
+Min Error::0.136  Max Error::18.7839  Average Error::7.72511  Counter822
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72458
+Min Error::0.136  Max Error::18.7839  Average Error::7.72458  Counter823
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72405
+Min Error::0.136  Max Error::18.7839  Average Error::7.72405  Counter824
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72352
+Min Error::0.136  Max Error::18.7839  Average Error::7.72352  Counter825
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.723
+Min Error::0.136  Max Error::18.7839  Average Error::7.723  Counter826
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72247
+Min Error::0.136  Max Error::18.7839  Average Error::7.72247  Counter827
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72194
+Min Error::0.136  Max Error::18.7839  Average Error::7.72194  Counter828
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72142
+Min Error::0.136  Max Error::18.7839  Average Error::7.72142  Counter829
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.7209
+Min Error::0.136  Max Error::18.7839  Average Error::7.7209  Counter830
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.72038
+Min Error::0.136  Max Error::18.7839  Average Error::7.72038  Counter831
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71986
+Min Error::0.136  Max Error::18.7839  Average Error::7.71986  Counter832
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71934
+Min Error::0.136  Max Error::18.7839  Average Error::7.71934  Counter833
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71882
+Min Error::0.136  Max Error::18.7839  Average Error::7.71882  Counter834
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71831
+Min Error::0.136  Max Error::18.7839  Average Error::7.71831  Counter835
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71779
+Min Error::0.136  Max Error::18.7839  Average Error::7.71779  Counter836
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71728
+Min Error::0.136  Max Error::18.7839  Average Error::7.71728  Counter837
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71676
+Min Error::0.136  Max Error::18.7839  Average Error::7.71676  Counter838
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71625
+Min Error::0.136  Max Error::18.7839  Average Error::7.71625  Counter839
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71574
+Min Error::0.136  Max Error::18.7839  Average Error::7.71574  Counter840
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71523
+Min Error::0.136  Max Error::18.7839  Average Error::7.71523  Counter841
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71473
+Min Error::0.136  Max Error::18.7839  Average Error::7.71473  Counter842
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71422
+Min Error::0.136  Max Error::18.7839  Average Error::7.71422  Counter843
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71371
+Min Error::0.136  Max Error::18.7839  Average Error::7.71371  Counter844
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71321
+Min Error::0.136  Max Error::18.7839  Average Error::7.71321  Counter845
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71271
+Min Error::0.136  Max Error::18.7839  Average Error::7.71271  Counter846
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71221
+Min Error::0.136  Max Error::18.7839  Average Error::7.71221  Counter847
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71171
+Min Error::0.136  Max Error::18.7839  Average Error::7.71171  Counter848
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71121
+Min Error::0.136  Max Error::18.7839  Average Error::7.71121  Counter849
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71071
+Min Error::0.136  Max Error::18.7839  Average Error::7.71071  Counter850
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.71021
+Min Error::0.136  Max Error::18.7839  Average Error::7.71021  Counter851
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70972
+Min Error::0.136  Max Error::18.7839  Average Error::7.70972  Counter852
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70922
+Min Error::0.136  Max Error::18.7839  Average Error::7.70922  Counter853
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70873
+Min Error::0.136  Max Error::18.7839  Average Error::7.70873  Counter854
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70824
+Min Error::0.136  Max Error::18.7839  Average Error::7.70824  Counter855
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70774
+Min Error::0.136  Max Error::18.7839  Average Error::7.70774  Counter856
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70725
+Min Error::0.136  Max Error::18.7839  Average Error::7.70725  Counter857
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70677
+Min Error::0.136  Max Error::18.7839  Average Error::7.70677  Counter858
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70628
+Min Error::0.136  Max Error::18.7839  Average Error::7.70628  Counter859
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70579
+Min Error::0.136  Max Error::18.7839  Average Error::7.70579  Counter860
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70531
+Min Error::0.136  Max Error::18.7839  Average Error::7.70531  Counter861
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70482
+Min Error::0.136  Max Error::18.7839  Average Error::7.70482  Counter862
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70434
+Min Error::0.136  Max Error::18.7839  Average Error::7.70434  Counter863
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70386
+Min Error::0.136  Max Error::18.7839  Average Error::7.70386  Counter864
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70337
+Min Error::0.136  Max Error::18.7839  Average Error::7.70337  Counter865
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70289
+Min Error::0.136  Max Error::18.7839  Average Error::7.70289  Counter866
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70242
+Min Error::0.136  Max Error::18.7839  Average Error::7.70242  Counter867
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70194
+Min Error::0.136  Max Error::18.7839  Average Error::7.70194  Counter868
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70146
+Min Error::0.136  Max Error::18.7839  Average Error::7.70146  Counter869
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70099
+Min Error::0.136  Max Error::18.7839  Average Error::7.70099  Counter870
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70051
+Min Error::0.136  Max Error::18.7839  Average Error::7.70051  Counter871
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.70004
+Min Error::0.136  Max Error::18.7839  Average Error::7.70004  Counter872
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69957
+Min Error::0.136  Max Error::18.7839  Average Error::7.69957  Counter873
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6991
+Min Error::0.136  Max Error::18.7839  Average Error::7.6991  Counter874
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69863
+Min Error::0.136  Max Error::18.7839  Average Error::7.69863  Counter875
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69816
+Min Error::0.136  Max Error::18.7839  Average Error::7.69816  Counter876
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69769
+Min Error::0.136  Max Error::18.7839  Average Error::7.69769  Counter877
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69722
+Min Error::0.136  Max Error::18.7839  Average Error::7.69722  Counter878
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69676
+Min Error::0.136  Max Error::18.7839  Average Error::7.69676  Counter879
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69629
+Min Error::0.136  Max Error::18.7839  Average Error::7.69629  Counter880
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69583
+Min Error::0.136  Max Error::18.7839  Average Error::7.69583  Counter881
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69536
+Min Error::0.136  Max Error::18.7839  Average Error::7.69536  Counter882
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6949
+Min Error::0.136  Max Error::18.7839  Average Error::7.6949  Counter883
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69444
+Min Error::0.136  Max Error::18.7839  Average Error::7.69444  Counter884
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69398
+Min Error::0.136  Max Error::18.7839  Average Error::7.69398  Counter885
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69352
+Min Error::0.136  Max Error::18.7839  Average Error::7.69352  Counter886
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69307
+Min Error::0.136  Max Error::18.7839  Average Error::7.69307  Counter887
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69261
+Min Error::0.136  Max Error::18.7839  Average Error::7.69261  Counter888
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69216
+Min Error::0.136  Max Error::18.7839  Average Error::7.69216  Counter889
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6917
+Min Error::0.136  Max Error::18.7839  Average Error::7.6917  Counter890
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69125
+Min Error::0.136  Max Error::18.7839  Average Error::7.69125  Counter891
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6908
+Min Error::0.136  Max Error::18.7839  Average Error::7.6908  Counter892
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.69034
+Min Error::0.136  Max Error::18.7839  Average Error::7.69034  Counter893
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68989
+Min Error::0.136  Max Error::18.7839  Average Error::7.68989  Counter894
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68944
+Min Error::0.136  Max Error::18.7839  Average Error::7.68944  Counter895
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.689
+Min Error::0.136  Max Error::18.7839  Average Error::7.689  Counter896
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68855
+Min Error::0.136  Max Error::18.7839  Average Error::7.68855  Counter897
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6881
+Min Error::0.136  Max Error::18.7839  Average Error::7.6881  Counter898
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68766
+Min Error::0.136  Max Error::18.7839  Average Error::7.68766  Counter899
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68721
+Min Error::0.136  Max Error::18.7839  Average Error::7.68721  Counter900
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68677
+Min Error::0.136  Max Error::18.7839  Average Error::7.68677  Counter901
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68633
+Min Error::0.136  Max Error::18.7839  Average Error::7.68633  Counter902
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68589
+Min Error::0.136  Max Error::18.7839  Average Error::7.68589  Counter903
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68545
+Min Error::0.136  Max Error::18.7839  Average Error::7.68545  Counter904
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68501
+Min Error::0.136  Max Error::18.7839  Average Error::7.68501  Counter905
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68457
+Min Error::0.136  Max Error::18.7839  Average Error::7.68457  Counter906
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68413
+Min Error::0.136  Max Error::18.7839  Average Error::7.68413  Counter907
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68369
+Min Error::0.136  Max Error::18.7839  Average Error::7.68369  Counter908
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68326
+Min Error::0.136  Max Error::18.7839  Average Error::7.68326  Counter909
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68282
+Min Error::0.136  Max Error::18.7839  Average Error::7.68282  Counter910
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68239
+Min Error::0.136  Max Error::18.7839  Average Error::7.68239  Counter911
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68196
+Min Error::0.136  Max Error::18.7839  Average Error::7.68196  Counter912
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68153
+Min Error::0.136  Max Error::18.7839  Average Error::7.68153  Counter913
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6811
+Min Error::0.136  Max Error::18.7839  Average Error::7.6811  Counter914
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68067
+Min Error::0.136  Max Error::18.7839  Average Error::7.68067  Counter915
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.68024
+Min Error::0.136  Max Error::18.7839  Average Error::7.68024  Counter916
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67981
+Min Error::0.136  Max Error::18.7839  Average Error::7.67981  Counter917
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67938
+Min Error::0.136  Max Error::18.7839  Average Error::7.67938  Counter918
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67896
+Min Error::0.136  Max Error::18.7839  Average Error::7.67896  Counter919
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67853
+Min Error::0.136  Max Error::18.7839  Average Error::7.67853  Counter920
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67811
+Min Error::0.136  Max Error::18.7839  Average Error::7.67811  Counter921
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67768
+Min Error::0.136  Max Error::18.7839  Average Error::7.67768  Counter922
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67726
+Min Error::0.136  Max Error::18.7839  Average Error::7.67726  Counter923
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67684
+Min Error::0.136  Max Error::18.7839  Average Error::7.67684  Counter924
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67642
+Min Error::0.136  Max Error::18.7839  Average Error::7.67642  Counter925
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.676
+Min Error::0.136  Max Error::18.7839  Average Error::7.676  Counter926
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67558
+Min Error::0.136  Max Error::18.7839  Average Error::7.67558  Counter927
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67516
+Min Error::0.136  Max Error::18.7839  Average Error::7.67516  Counter928
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67475
+Min Error::0.136  Max Error::18.7839  Average Error::7.67475  Counter929
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67433
+Min Error::0.136  Max Error::18.7839  Average Error::7.67433  Counter930
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67391
+Min Error::0.136  Max Error::18.7839  Average Error::7.67391  Counter931
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6735
+Min Error::0.136  Max Error::18.7839  Average Error::7.6735  Counter932
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67309
+Min Error::0.136  Max Error::18.7839  Average Error::7.67309  Counter933
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67267
+Min Error::0.136  Max Error::18.7839  Average Error::7.67267  Counter934
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67226
+Min Error::0.136  Max Error::18.7839  Average Error::7.67226  Counter935
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67185
+Min Error::0.136  Max Error::18.7839  Average Error::7.67185  Counter936
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67144
+Min Error::0.136  Max Error::18.7839  Average Error::7.67144  Counter937
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67103
+Min Error::0.136  Max Error::18.7839  Average Error::7.67103  Counter938
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67062
+Min Error::0.136  Max Error::18.7839  Average Error::7.67062  Counter939
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.67022
+Min Error::0.136  Max Error::18.7839  Average Error::7.67022  Counter940
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66981
+Min Error::0.136  Max Error::18.7839  Average Error::7.66981  Counter941
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66941
+Min Error::0.136  Max Error::18.7839  Average Error::7.66941  Counter942
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.669
+Min Error::0.136  Max Error::18.7839  Average Error::7.669  Counter943
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6686
+Min Error::0.136  Max Error::18.7839  Average Error::7.6686  Counter944
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66819
+Min Error::0.136  Max Error::18.7839  Average Error::7.66819  Counter945
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66779
+Min Error::0.136  Max Error::18.7839  Average Error::7.66779  Counter946
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66739
+Min Error::0.136  Max Error::18.7839  Average Error::7.66739  Counter947
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66699
+Min Error::0.136  Max Error::18.7839  Average Error::7.66699  Counter948
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66659
+Min Error::0.136  Max Error::18.7839  Average Error::7.66659  Counter949
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66619
+Min Error::0.136  Max Error::18.7839  Average Error::7.66619  Counter950
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66579
+Min Error::0.136  Max Error::18.7839  Average Error::7.66579  Counter951
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6654
+Min Error::0.136  Max Error::18.7839  Average Error::7.6654  Counter952
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.665
+Min Error::0.136  Max Error::18.7839  Average Error::7.665  Counter953
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66461
+Min Error::0.136  Max Error::18.7839  Average Error::7.66461  Counter954
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66421
+Min Error::0.136  Max Error::18.7839  Average Error::7.66421  Counter955
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66382
+Min Error::0.136  Max Error::18.7839  Average Error::7.66382  Counter956
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66342
+Min Error::0.136  Max Error::18.7839  Average Error::7.66342  Counter957
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66303
+Min Error::0.136  Max Error::18.7839  Average Error::7.66303  Counter958
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66264
+Min Error::0.136  Max Error::18.7839  Average Error::7.66264  Counter959
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66225
+Min Error::0.136  Max Error::18.7839  Average Error::7.66225  Counter960
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66186
+Min Error::0.136  Max Error::18.7839  Average Error::7.66186  Counter961
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66147
+Min Error::0.136  Max Error::18.7839  Average Error::7.66147  Counter962
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66108
+Min Error::0.136  Max Error::18.7839  Average Error::7.66108  Counter963
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6607
+Min Error::0.136  Max Error::18.7839  Average Error::7.6607  Counter964
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.66031
+Min Error::0.136  Max Error::18.7839  Average Error::7.66031  Counter965
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65992
+Min Error::0.136  Max Error::18.7839  Average Error::7.65992  Counter966
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65954
+Min Error::0.136  Max Error::18.7839  Average Error::7.65954  Counter967
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65916
+Min Error::0.136  Max Error::18.7839  Average Error::7.65916  Counter968
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65877
+Min Error::0.136  Max Error::18.7839  Average Error::7.65877  Counter969
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65839
+Min Error::0.136  Max Error::18.7839  Average Error::7.65839  Counter970
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65801
+Min Error::0.136  Max Error::18.7839  Average Error::7.65801  Counter971
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65763
+Min Error::0.136  Max Error::18.7839  Average Error::7.65763  Counter972
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65725
+Min Error::0.136  Max Error::18.7839  Average Error::7.65725  Counter973
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65687
+Min Error::0.136  Max Error::18.7839  Average Error::7.65687  Counter974
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65649
+Min Error::0.136  Max Error::18.7839  Average Error::7.65649  Counter975
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65611
+Min Error::0.136  Max Error::18.7839  Average Error::7.65611  Counter976
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65573
+Min Error::0.136  Max Error::18.7839  Average Error::7.65573  Counter977
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65536
+Min Error::0.136  Max Error::18.7839  Average Error::7.65536  Counter978
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65498
+Min Error::0.136  Max Error::18.7839  Average Error::7.65498  Counter979
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65461
+Min Error::0.136  Max Error::18.7839  Average Error::7.65461  Counter980
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65423
+Min Error::0.136  Max Error::18.7839  Average Error::7.65423  Counter981
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65386
+Min Error::0.136  Max Error::18.7839  Average Error::7.65386  Counter982
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65349
+Min Error::0.136  Max Error::18.7839  Average Error::7.65349  Counter983
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65312
+Min Error::0.136  Max Error::18.7839  Average Error::7.65312  Counter984
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65275
+Min Error::0.136  Max Error::18.7839  Average Error::7.65275  Counter985
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65238
+Min Error::0.136  Max Error::18.7839  Average Error::7.65238  Counter986
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65201
+Min Error::0.136  Max Error::18.7839  Average Error::7.65201  Counter987
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65164
+Min Error::0.136  Max Error::18.7839  Average Error::7.65164  Counter988
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65127
+Min Error::0.136  Max Error::18.7839  Average Error::7.65127  Counter989
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.6509
+Min Error::0.136  Max Error::18.7839  Average Error::7.6509  Counter990
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65054
+Min Error::0.136  Max Error::18.7839  Average Error::7.65054  Counter991
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.65017
+Min Error::0.136  Max Error::18.7839  Average Error::7.65017  Counter992
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.64981
+Min Error::0.136  Max Error::18.7839  Average Error::7.64981  Counter993
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.64944
+Min Error::0.136  Max Error::18.7839  Average Error::7.64944  Counter994
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.64908
+Min Error::0.136  Max Error::18.7839  Average Error::7.64908  Counter995
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.64872
+Min Error::0.136  Max Error::18.7839  Average Error::7.64872  Counter996
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.64835
+Min Error::0.136  Max Error::18.7839  Average Error::7.64835  Counter997
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.64799
+Min Error::0.136  Max Error::18.7839  Average Error::7.64799  Counter998
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.64763
+Min Error::0.136  Max Error::18.7839  Average Error::7.64763  Counter999
+42["steer",{"steering_angle":-1.0,"throttle":0.3}]
+CTE: 7.2878 Steering Value: -1Average Error::7.64727
+Min Error::0.136  Max Error::18.7839  Average Error::7.64727  Counter1000
